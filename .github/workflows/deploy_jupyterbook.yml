@@ -17,7 +17,7 @@ jobs:
         shell: bash -l {0}
         run: |
           pip install -U jupyter-book
-          jb build docs/.
+          jupyter-book build docs/.
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
