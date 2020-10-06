@@ -13,5 +13,5 @@ jobs:
       - name: Build  # Build Jupyter Book
         shell: bash -l {0}
         run: |
-          pip install -U jupyter-book
+          pip install -U "jupyter-book>=0.7.0"
           jb build docs/.
