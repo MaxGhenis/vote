@@ -13,14 +13,17 @@ jobs:
         with:
           persist-credentials: false
 
-        - name: Install dependencies
-        run: |
-          pip install -r docs/requirements.txt
-
+      # Install dependencies
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+  
       - name: Build  # Build Jupyter Book
         shell: bash -l {0}
         run: |
-          jb build docs/.
+            pip install -U "jupyter-book>=0.7.0"
+            jb build docs/.
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
