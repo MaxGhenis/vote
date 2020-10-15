@@ -189,11 +189,10 @@ Prop 22 redresses an unjust, corrupt law, preserving the flexibility of modern e
 According to [Ballotpedia](https://ballotpedia.org/California_Proposition_23,_Dialysis_Clinic_Requirements_Initiative_(2020)#California_Proposition_8_.282018.29):
 
 > Prop 23 would require chronic dialysis clinics to:
-
-> *   have a minimum of one licensed physician present at the clinic while patients are being treated, with an exception for when there is a bona fide shortage of physicians;
-*   report data on dialysis-related infections to the state health department and National Healthcare Safety Network (NHSN);
-*   require the principal officer of the clinic to certify under penalty of perjury that he or she is satisfied, after review, that the submitted report is accurate and complete; and
-*   provide a written notice to the state health department and obtain consent from the state health department before closing a chronic dialysis clinic.
+> * have a minimum of one licensed physician present at the clinic while patients are being treated, with an exception for when there is a bona fide shortage of physicians;
+> * report data on dialysis-related infections to the state health department and National Healthcare Safety Network (NHSN);
+> * require the principal officer of the clinic to certify under penalty of perjury that he or she is satisfied, after review, that the submitted report is accurate and complete; and
+> * provide a written notice to the state health department and obtain consent from the state health department before closing a chronic dialysis clinic.
 
 This follows [Prop 8 from November 2018](https://medium.com/@MaxGhenis/no-on-california-proposition-8-c8edca889b3d), another labor dispute that SEIU-UHW West took to the ballot box. Californians rejected that measure, which would have capped dialysis companies' revenue to 115 percent of some costs--mostly labor--by 20 points. Rather than negotiate through the legislature, the labor group spent millions forcing California voters to decide yet another dialysis measure, with patients again caught in the middle.
 
