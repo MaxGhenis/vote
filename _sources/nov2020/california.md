@@ -166,9 +166,20 @@ My dad is among the many rideshare drivers who works a mix of longer shifts and 
 
 That flexibility also benefits customers, especially people without personal vehicles or who want to avoid in-person shopping. I've lived in a city twice without a car, once pre-Uber and once post-Uber. That city (San Francisco) probably has the best public transit in the state, but it still took an hour to get just a couple miles, especially late at night, and just as long to hail a cab. In my second SF stretch, bikeshare and living in a more walkable area reduced my need for Uber and Lyft, but on the few occasions I used it, the alternatives were far less convenient--sometimes impossible, like going to the airport.
 
-Today, my partner and I live in a suburb that's probably a bit more dense than the California average, but getting to a store still requires biking on 50mph-speed-limit roads with no protected bike lane--transit is effectively nonexistent. When we moved, Uber and Lyft were our only ways to get around safely, and with the pandemic we finally bought a car after years without one. We also use Instacart to get groceries safely in the pandemic.
+Today, my partner and I live in a suburb that's probably a bit denser than the California average, but getting to a store still requires biking on 50mph-speed-limit roads with no protected bike lane--transit is effectively nonexistent. When we moved, Uber and Lyft were our only ways to get around safely, and with the pandemic we finally bought a car after years without one. We also use Instacart to get groceries safely in the pandemic.
 
 Our experience is typical of Californians. I applaud people who can live without a car or rideshare in dense urban areas, but for most, the choices are (a) car ownership, (b) unsafe biking or time-consuming transit, or (c) Uber and Lyft. People with means to avoid (b) will buy vehicles, clogging up roads and requiring huge swaths of land for vehicle storage, if Uber and Lyft become inaccessible or even less affordable and convenient. Any additional costs borne by Instacart and Doordash will translate directly to more people buying groceries or eating in restaurants amid a pandemic, threatening public health--and of course, to more driving and its associated pollution and carbon emissions. These services provide new freedom to people who can't drive at all, like seniors and people with disabilities, and save lives through multiple channels.
+
+I've heard concerns on good-governance grounds that Prop 22 requires seven-eighths of the legislature to amend.
+This isn't surprising: 77 percent of the Assembly and 73 percent of the Senate [voted for AB5](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201920200AB5), largely on a party-line vote.
+Democrats may gain seats in November, so any threshold short of three-fourths could be dead on arrival.
+If something goes so wrong with Prop 22 (and I'm not sure what that would be), it could also be revised by ballot measure; three of the 12 measures on this year's state ballot intend to revise prior ballot measures.
+Fundamentally, I'm not convinced this is a major issue because I don't believe the legislature should be banning
+gig work at all, just as I don't think local governments should be banning duplexes at all, and supported
+a state bill that would prevent them from doing so.
+Good governance isn't just about empowering the legislature, it's about making it hard for them to do bad things;
+that's why we have a constitution, it's why state law sometimes supersedes local law, and it's why
+ballot measures can have reasonable safeguards to ensure the will of the people is adhered to.
 
 Prop 22 redresses an unjust, corrupt law, preserving the flexibility of modern economic opportunities and expanding them with benefits like earnings minimums and a health insurance stipend. According to the nonpartisan Legislative Analyst Office, it will [increase total driver earnings and tax revenue](https://lao.ca.gov/BallotAnalysis/Proposition?number=22&year=2020). While we also need better transit and safer bicycle infrastructure, and to allow denser, more walkable cities, Prop 22 will also reduce personal vehicle ownership and its many ills. Vote yes.
 
