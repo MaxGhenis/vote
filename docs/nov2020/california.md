@@ -8,7 +8,7 @@ Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_p
 
 **YES on Prop 14**, which issues \$5.5 billion in bonds for a state stem cell research institute.
 
-**YES ON PROP 15**, which requires commercial and industrial properties to be taxed based on market value and dedicates revenue.
+**YES on Prop 15**, which requires commercial and industrial properties to be taxed based on market value and dedicates revenue.
 
 **NO on Prop 16**, which repeals Proposition 209 (1996), which says that the state cannot discriminate or grant preferential treatment based on race, sex, color, ethnicity, or national origin in public employment, education, or contracting.
 
