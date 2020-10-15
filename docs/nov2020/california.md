@@ -12,21 +12,21 @@ Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_p
 
 **YES on Prop 17**, which restores the right to vote to people convicted of felonies who are on parole.
 
-**YES on Prop 18**, which allows 17-year-olds who will be 18 at the time of the next general election to vote in primaries and special elections
+**YES on Prop 18**, which allows 17-year-olds who will be 18 at the time of the next general election to vote in primaries and special elections.
 
-**YES on Prop 19**, which changes tax assessment transfers and inheritance rules
+**YES on Prop 19**, which changes tax assessment transfers and inheritance rules.
 
-**NO on Prop 20**, which makes changes to policies related to criminal sentencing charges, prison release, and DNA collection
+**NO on Prop 20**, which makes changes to policies related to criminal sentencing charges, prison release, and DNA collection.
 
-**NO on Prop 21**, which expands local governments' power to use rent control
+**NO on Prop 21**, which expands local governments' power to use rent control.
 
-**YES on Prop 22**, which considers app-based drivers to be independent contractors and enacts several labor policies related to app-based companies
+**YES on Prop 22**, which considers app-based drivers to be independent contractors and enacts several labor policies related to app-based companies.
 
-**NO on Prop 23**, which requires physician on-site at dialysis clinics and consent from the state for a clinic to close
+**NO on Prop 23**, which requires physician on-site at dialysis clinics and consent from the state for a clinic to close.
 
-**NO on Prop 24**, which expands the provisions of the California Consumer Privacy Act (CCPA) and creates the California Privacy Protection Agency to implement and enforce the CCPA
+**NO on Prop 24**, which expands the provisions of the California Consumer Privacy Act (CCPA) and creates the California Privacy Protection Agency to implement and enforce the CCPA.
 
-**YES on Prop 25**, which replaces cash bail with risk assessments for suspects awaiting trial
+**YES on Prop 25**, which replaces cash bail with risk assessments for suspects awaiting trial.
 
 
 ## Yes on Prop 14
