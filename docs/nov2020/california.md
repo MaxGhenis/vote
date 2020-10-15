@@ -172,7 +172,7 @@ Our experience is typical of Californians. I applaud people who can live without
 
 I've heard concerns on good-governance grounds that Prop 22 requires seven-eighths of the legislature to amend.
 This isn't surprising: 77 percent of the Assembly and 73 percent of the Senate [voted for AB5](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201920200AB5), largely on a party-line vote.
-Democrats may gain seats in November, so any threshold short of three-fourths could be dead on arrival.
+Democrats may gain seats in November, so any threshold short of three-fourths could make it dead on arrival.
 If something goes so wrong with Prop 22 (and I'm not sure what that would be), it could also be revised by ballot measure; three of the 12 measures on this year's state ballot intend to revise prior ballot measures.
 Fundamentally, I'm not convinced this is a major issue because I don't believe the legislature should be banning
 gig work at all, just as I don't think local governments should be banning duplexes at all, and supported
