@@ -2,6 +2,8 @@
 
 ## Summary
 
+**BIDEN FOR PRESIDENT!!!**
+
 Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_propositions).
 
 **YES on Prop 14**, which issues \$5.5 billion in bonds for a state stem cell research institute.
