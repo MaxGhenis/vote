@@ -4,7 +4,7 @@
 
 Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_propositions).
 
-**YES on Prop 14**, which issues $5.5 billion in bonds for a state stem cell research institute.
+**YES on Prop 14**, which issues \$5.5 billion in bonds for a state stem cell research institute.
 
 **YES ON PROP 15**, which requires commercial and industrial properties to be taxed based on market value and dedicates revenue.
 
@@ -29,9 +29,9 @@ Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_p
 **YES on Prop 25**, which replaces cash bail with risk assessments for suspects awaiting trial
 
 
-### Yes on Prop 14
+## Yes on Prop 14
 
-Prop 14 issues $5.5 billion in general obligation bonds to continue funding the California Institute of Regenerative Medicine (CIRM), which conducts stem cell research. Combined with $2.3 billion in interest, the bond will cost the state [$260 million per year](https://lao.ca.gov/ballot/2020/Prop14-110320.pdf) from its General Fund for the next 30 years.
+Prop 14 issues \$5.5 billion in general obligation bonds to continue funding the California Institute of Regenerative Medicine (CIRM), which conducts stem cell research. Combined with \$2.3 billion in interest, the bond will cost the state [\$260 million per year](https://lao.ca.gov/ballot/2020/Prop14-110320.pdf) from its General Fund for the next 30 years.
 
 I wasn't planning on voting for Prop 14. State general obligation bonds are effectively budget set-asides, tying the hands of the legislature in normal budgeting processes. They limit our ability to respond to changing conditions, such as the Covid-19 emergency. Unlike local general obligation bonds, which are repaid in property taxes, state bonds don't raise any tax revenue. That means each dollar that pays for debt repayments is a dollar that can't fund other General Fund programs, 80 percent of which makes Californians healthier, more educated, and less poor.
 
@@ -39,7 +39,7 @@ I wasn't planning on voting for Prop 14. State general obligation bonds are effe
 ![California budget, 2020](../_static/nov2020/california/prop14/budget.png "California budget, 2020")
 
 
-I was persuaded to change my vote by Alexander Berger, Managing Director of the [Open Philanthropy Project](https://www.openphilanthropy.org/) ("Open Phil"), one of the most prominent and, in my opinion, credible effective altruism philanthropic organizations. Open Phil is the sister organization to GiveWell, which identifies cost-effective charities for saving lives, like malaria bed nets, guiding the vast majority of my personal [giving](https://medium.com/@MaxGhenis/why-ive-taken-the-giving-what-we-can-pledge-d5576f23df10). Berger [wrote](https://docs.google.com/document/d/1xXv_4Y3O4dZCRXYNakoQ79Lq2J-6Hf9qHxM-MgRVGak/edit) about Open Phil's science team finding that CIRM's grants are "as good or better than average funding from the NIH" and how this basic research is a highly cost-effective global public good. Ideally, the legislature would budget for such a beneficial program, but Berger [predicted](https://twitter.com/albrgr/status/1316042574222811136) that CIRM would be "dead or massively shrunk if 14 fails." This led Open Phil to [contribute $580,000](https://www.openphilanthropy.org/focus/scientific-research/californians-for-stem-cell-research-treatments-and-cures-cirm) to get Prop 14 on the ballot.
+I was persuaded to change my vote by Alexander Berger, Managing Director of the [Open Philanthropy Project](https://www.openphilanthropy.org/) ("Open Phil"), one of the most prominent and, in my opinion, credible effective altruism philanthropic organizations. Open Phil is the sister organization to GiveWell, which identifies cost-effective charities for saving lives, like malaria bed nets, guiding the vast majority of my personal [giving](https://medium.com/@MaxGhenis/why-ive-taken-the-giving-what-we-can-pledge-d5576f23df10). Berger [wrote](https://docs.google.com/document/d/1xXv_4Y3O4dZCRXYNakoQ79Lq2J-6Hf9qHxM-MgRVGak/edit) about Open Phil's science team finding that CIRM's grants are "as good or better than average funding from the NIH" and how this basic research is a highly cost-effective global public good. Ideally, the legislature would budget for such a beneficial program, but Berger [predicted](https://twitter.com/albrgr/status/1316042574222811136) that CIRM would be "dead or massively shrunk if 14 fails." This led Open Phil to [contribute \$580,000](https://www.openphilanthropy.org/focus/scientific-research/californians-for-stem-cell-research-treatments-and-cures-cirm) to get Prop 14 on the ballot.
 
 Stem cell research is already bearing fruit in helping to develop potential [Covid-19 vaccines and treatments](https://www.uclahealth.org/how-ucla-scientists-are-using-stem-cells-to-take-on-covid19), and has a bright future in developing new therapies. California's interest rate on bonds is below inflation, and Prop 14 locks in research budgets to help CIRM focus on long-term basic research that benefits the planet. I trust Berger and Open Phil to make the right decision here, so despite my reservations about good governance, I'm voting to continue this funding stream.
 
@@ -48,7 +48,7 @@ Stem cell research is already bearing fruit in helping to develop potential [Cov
 
 ## Yes on Prop 15
 
-Prop 15 assesses property taxes for certain commercial buildings based on current market value rather than its purchase price, generating between [$6.5 billion and $11.5 billion](https://lao.ca.gov/BallotAnalysis/Proposition?number=15&year=2020) annually for local governments and schools. It creates a "split-roll" property taxation system, where residential properties, agricultural properties, and commercial properties worth under $3 million would be taxed on their purchase price (plus an increase of up to two percent per year), and commercial properties worth more than $3 million would be taxed on current market value. Tax rates would continue to be capped at 1 percent due to 1978's Prop 13, which also capped annual increases by 2 percent for all properties.
+Prop 15 assesses property taxes for certain commercial buildings based on current market value rather than its purchase price, generating between [\$6.5 billion and \$11.5 billion](https://lao.ca.gov/BallotAnalysis/Proposition?number=15&year=2020) annually for local governments and schools. It creates a "split-roll" property taxation system, where residential properties, agricultural properties, and commercial properties worth under \$3 million would be taxed on their purchase price (plus an increase of up to two percent per year), and commercial properties worth more than \$3 million would be taxed on current market value. Tax rates would continue to be capped at 1 percent due to 1978's Prop 13, which also capped annual increases by 2 percent for all properties.
 
 Prop 15 would bring revenue to every local government and school district in the state. Many of these entities were struggling financially before the pandemic, and are now facing catastrophic budget cuts. Its remedy is to stop giving incumbency property tax breaks to owners of valuable commercial property, putting new businesses on the same footing as legacies. For example, today a new grocery store would pay multiple times the property taxes of one that's been on its location since 1980. This anti-newcomer property tax regime discourages entrepreneurship and starves governments of funds.
 
@@ -108,7 +108,7 @@ These clauses forge a bargain over 1978's Prop 13 and extensions thereof. Prop 1
 *   **1988 Prop 90** extended 1986 Prop 60 to moves in other counties, given that county allows it
 *   **1996 Prop 193** extended 1986 Prop 58 by allowing grandparents to transfer their property to grandchildren whose parents have deceased
 
-[2018 Prop 5](https://medium.com/@MaxGhenis/no-on-california-proposition-5-fd1b7b243072) attempted to expand Prop 60 (1986) and Prop 90 (1988) further, by allowing seniors to take their property tax discounts anywhere in the state. I voted against this expansion of the unjust Prop 13, which would have cost $1 billion per year in taxes.
+[2018 Prop 5](https://medium.com/@MaxGhenis/no-on-california-proposition-5-fd1b7b243072) attempted to expand Prop 60 (1986) and Prop 90 (1988) further, by allowing seniors to take their property tax discounts anywhere in the state. I voted against this expansion of the unjust Prop 13, which would have cost \$1 billion per year in taxes.
 
 Just before the 2018 election, the impact of Prop 13 inheritance also became more widely known, with a [major LA Times story](https://www.latimes.com/politics/la-pol-ca-california-property-taxes-elites-201808-htmlstory.html) focusing on wealthy children paying next-to-no taxes on their inherited properties.
 
@@ -186,7 +186,7 @@ Similarly to their assessment of [2018 Prop 8](https://lao.ca.gov/BallotAnalysis
 
 Prop 23 also exacerbates existing problems in our healthcare system by worsening our [growing physician shortage](https://www.aamc.org/news-insights/us-physician-shortage-growing) and moving away from alternative medical staffing that makes treatment more affordable and accessible. Occupational licensing requirements like these are incompatible with goals for universal healthcare, and if anything they should be slimmed down, as [many states have done](https://blog.dol.gov/2020/05/19/states-respond-to-coronavirus-with-occupational-licensing-reforms) to meet needs during the pandemic.
 
-Between 2018 Prop 8 and 2020 Prop 23, over $230 million will have been spent educating voters about kidney treatment esoterica. That's money that would otherwise be improving the quality and/or affordability of treatment for dialysis patients. It's an abuse of democracy for regulatory capture that voters must, again, reject.
+Between 2018 Prop 8 and 2020 Prop 23, over \$230 million will have been spent educating voters about kidney treatment esoterica. That's money that would otherwise be improving the quality and/or affordability of treatment for dialysis patients. It's an abuse of democracy for regulatory capture that voters must, again, reject.
 
 
 ## No on Prop 24
