@@ -86,7 +86,7 @@ VC YIMBY [endorsed Measure N](https://www.vcyimby.org/endorsements#h.ce5xndn2l0g
 
 ## Oxnard
 
-(nov2020-oxnard-mayor)
+(nov2020-oxnard-mayor)=
 ### John Zaragoza for Oxnard Mayor
 
 [Zaragoza](https://zaragozaformayor.com/),
@@ -112,7 +112,7 @@ VC YIMBY [endorsed Zaragoza](https://www.vcyimby.org/endorsements#h.hsp1rwittnlx
 ### Oscar Madrigal for Oxnard City Council, District 3
 
 [Madrigal](https://www.facebook.com/electMadrigal/), the incumbent, is running against
-[Ronald Arruejo](www.arruejoforoxnard.com) and [Aaron Starr](https://www.starrforoxnard.com/).
+[Ronald Arruejo](http://www.arruejoforoxnard.com) and [Aaron Starr](https://www.starrforoxnard.com/).
 
 Madrigal was the only councilmember to vote for the [Fisherman's Wharf development](https://medium.com/vcyimby/support-for-oxnard-fishermans-wharf-development-26d5204e9f7c), though he was also one of two who [voted against a homeless shelter](https://twitter.com/MaxGhenis/status/1197031530188509184).
 However, his responses to the VC YIMBY questionnaire were more pro-housing than those from Arruejo, who said "Five stories will not be in keeping with the city's character."
