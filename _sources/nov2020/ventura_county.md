@@ -1,5 +1,7 @@
 # Ventura County
 
+This includes races I'm personally voting in (in Oxnard), as well as other races I've researched through Ventura County YIMBY.
+
 See also [endorsements from Ventura County YIMBY](http://vcyimby.org/endorsements).
 I was involved in that endorsement process, and mirror all those endorsements here,
 including some of the language from our site and the [YIMBY Action text](https://yimbyaction.org/endorsements/ventura-county/).
@@ -37,9 +39,13 @@ Her pro-housing responses earned our endorsement:
 
 ### Joe Ramirez for Community College Board Area 3
 
-[Stan Mantooth](http://stanmantooth.com), Ventura County Superintendent of Schools
-[Nicole Wall](https://nicole-wall.net/), retired teacher "Restorative Justice Practices in Schools Facilitator and immediately began implementing a program for Social and Educational Justice"
-[Joe Ramirez](https://www.ramirez4trustee3.com/), retired college administrator
+[Stan Mantooth](http://stanmantooth.com), Ventura County Superintendent of Schools,
+[Nicole Wall](https://nicole-wall.net/), retired teacher, and
+[Joe Ramirez](https://www.ramirez4trustee3.com/), retired college administrator,
+are vying for a spot on the Community College Board.
+
+Mantooth and Ramirez are similarly qualified, with leadership and administrative experience in educational institutions, while Wall's campaign emphasizes social justice.
+But Ramirez's website includes more policy specifics, such as preparing more people to work in healthcare.
 
 
 ### Yes on Measure O
