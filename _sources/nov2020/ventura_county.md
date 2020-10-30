@@ -76,8 +76,8 @@ But she's presided over [extremely slow growth in Ojai](https://www.vcstar.com/s
 >Developers benefit greatly from the affordable housing law when they build large developments and only a small percentage are actually affordable. Their developments take a ton of water and increase traffic, but don’t increase the sustainability, diversity, and resilience of the community in a meaningful way. Advocacy for 100% affordable developments, of small size, accomplishes more than a massive development where only 15% of the units are affordable and 85% are market rate.
 
 Francina also [opposes short-term rentals](https://suzafrancinaforojaicitycouncil.com/f/part-two-on-affordable-housing-draft),
-which provide extra income for homeowners and needed extra flexible housing supply---
-for example, many of my grad school classmates from outside the US used Airbnb.
+which provide extra income for homeowners and needed extra flexible housing supply---for example,
+many of my grad school classmates from outside the US used Airbnb.
 There's no reason for short-term rentals to displace long-term residents if more housing is allowed to be built.
 
 Becker, on the other hand, supports housing from all angles, as demonstrated both in her VC YIMBY questionnaire and in a phone call I had with her.
