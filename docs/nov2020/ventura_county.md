@@ -184,14 +184,20 @@ VC YIMBY [endorsed Measure E](https://www.vcyimby.org/endorsements#h.ce5xndn2l0g
 
 ### No on Oxnard Measure F
 
-
+Measure F would move part of the permitting process to authorized third parties, creating unnecessary bureaucracy under the shroud of "expedited processing."
+I fully support permit streamlining, but this isn't it; the city can decide the best way to permit.
 
 (nov2020-oxnard-l)=
 ### No on Oxnard Measure L
 
-
+Measure L restores duties to the City Treasurer, whose responsibilities were cut following a city-led investigation into malfeasance.
+This is an issue for the city to deal with, not voters directly.
 
 ### No on Oxnard Measure M
+
+Measure M requires rule alterations for city meetings.
+Having attended many such meetings, the problem I've observed is what needs to go to a meeting (rather than being by-right), not whether materials are shared early enough.
+This would slow down operations, and isn't fit for voters to decide directly; city council can make these calls.
 
 ### No on Oxnard Measure N
 
