@@ -3,7 +3,7 @@
 I lived in San Francisco from 2016 to 2019, and still follow its politics.
 See also these voter guides (I don't fully agree with them, but they are well-researched):
 * [SF YIMBY](https://www.sfyimby.org/endorsements)
-* [SPUR](spur.org/voter-guide/san-francisco-2020-11)
+* [SPUR](http://spur.org/voter-guide/san-francisco-2020-11)
 * [Tech Worker Voter Guide](https://techworkers.vote/) (which also describes why each measure is on the ballot)
 
 ## Elected offices
@@ -26,7 +26,7 @@ He has passed multiple bills relating to [HIV and LGBT issues](https://en.wikipe
 
 His opponent, Jackie Fielder, is aligned with the democratic-socialist wing of San Francisco politics.
 She's branding herself as the "progressive" in the race, but her policy stances reveal that she's anything but. Fielder:
-* [Opposes SB 50](https://www.sfexaminer.com/opinion/sb-50-authors-need-to-be-better-allies-of-tenants-low-income-people-and-people-of-color/),just as Wiener's 2016 opponent [opposed SB 827](https://www.sfexaminer.com/news/in-bid-for-west-side-support-jane-kim-announces-opposition-to-housing-density-bill/).
+* [Opposes SB 50](https://www.sfexaminer.com/opinion/sb-50-authors-need-to-be-better-allies-of-tenants-low-income-people-and-people-of-color/), just as Wiener's 2016 opponent [opposed SB 827](https://www.sfexaminer.com/news/in-bid-for-west-side-support-jane-kim-announces-opposition-to-housing-density-bill/).
 * [Opposes Measure RR](https://twitter.com/JackieFielder_/status/1283489373292384259) to save Caltrain with a sales tax.
 * [Opposes gas taxes](https://jackieforsenate.com/transportation), critical for reducing greenhouse gas emissions and air pollution.
 * [Opposes California's carbon pricing system](https://twitter.com/JackieFielder_/status/1304569710256693248), which has [reduced emissions](https://www.c2es.org/content/california-cap-and-trade/) and raised billions to fight climate change and help low-income communities.
