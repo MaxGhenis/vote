@@ -40,12 +40,174 @@ However Fielder describes herself, the result of her policy preferences would be
 Between her and the most effective, progressive pro-housing legislator in the country, the choice is clear.
 
 
+### David Chiu for Assembly District 17
+
+[Chiu](https://votedavidchiu.com) is a major ally to YIMBYs, both in substance, for example authoring [AB 2923](https://a17.asmdc.org/press-releases/bill-increase-transit-oriented-development-bart-stations-signed-governor) which allows BART to build more housing on its land, and sentiment, having spoken at many YIMBY events.
+He is a reliable vote for pro-housing legislation, such as SB 50 and SB 330.
+The anti-housing views of his [opponent](https://sanfrancisco.cbslocal.com/2015/10/27/sf-supervisor-campos-rallies-for-development-moratorium-in-mission-district/) in the close 2014 race that brought Chiu to the assembly, demonstrates his "value above replacement" to AD-17.
+
+Chiu has also authored bills to expand Medicaid, fund transit, and pursue other progressive priorities.
+
+His record isn't perfect, as he's also been the chief advocate of rent control---which benefits incumbents at the cost of newcomers---in Sacramento, authoring AB 1482, signed in 2019.
+He's also authored AB 857, which enables cities to create "public banks," a performative institution that advocates falsely claim will enable them to essentially print money for government projects, avoiding real solutions like taxes and permitting the market to deliver critical services like housing.
+
+Chiu's opponent, [Starchild](http://starchild.forliberty.org/) received [56 write-in votes](https://ballotpedia.org/David_Chiu_(California)) in the primary, and while he has progressive values on zoning, sex work, and immigration, he has no public policy experience and advocates counterproductive policies like abolishing the police and reducing lawmaker compensation.
+
+### Phil Ting for Assembly District 19
+
+[Ting](https://www.philting.com/) focuses less on housing than his peers Chiu and Wiener, but he still votes reliably for pro-housing legislation.
+As chair of the Assembly Budget committee, he has notably promoted the [expansion of CalEITC](https://a19.asmdc.org/californias-earned-income-tax-credit), a cash transfer to low-income Californians.
+CalEITC [effectively reduces poverty](https://calbudgetcenter.org/resources/expanding-the-caleitc-a-smart-investment-to-broaden-economic-security-in-california/) in California and is a step toward basic income.
+
+His opponent, [John McDonnell](http://johnmcdonnellforassembly.com/), is a Republican who demonizes people experiencing homelessness and the gas tax, and advocates protecting Prop 13's inequitable property tax system.
+While I agree with him on some views like equal protection, allowing gig work, and supporting charter schools, a vote for any Republican is, today and for years to come, a vote for Trumpism and the GOP, which have failed our country and our state.
+
+### Marjan Philhour #1, Veronica Shinzato #2 for District 1 Supervisor
+
+[Philhour's](https://www.votemarjan.com/) website's housing section is unambiguous:
+>Marjan supports building housing of all types, including 100% affordable, in-law units, and new apartment buildings.
+
+She also supports transit and safe infrastructure for pedestrians and cyclists, for public safety, economic inclusivity, and the environment. 
+As a small business owner and organizer of other small business owners, she supports simplified permitting to stop giving NIMBY neighbors ([including competitors](https://medium.com/yimbyneoliberal/the-great-falafel-debacle-27231edce59e)) unlimited authority to keep new businesses from opening.
+
+[Shinzato](https://veronicashinzato.com) also supports re-evaluating requirements that prevent or slow down the production of new housing, such as parking requirements and discretionary permitting.
+She also supports creating new bike lanes and supporting people experiencing homelessness and people with mental health needs.
+
+The competition wants to preserve District 1's exclusionary low density.
+Tropes like [Connie Chan's "100 percent affordable housing"](https://www.conniechansf.com/post/affordable-and-vibrant-neighborhoods) are proven recipes to build nothing:
+if apartments are illegal, even public monies can't produce below-market-rate housing, and developers by definition can't build entirely below-market-rate housing without subsidy.
+[David Lee's call](https://www.votedavidlee2020.com/priorities) to "stand up to real estate interests" really means "stand up to newcomers seeking to live in District 1."
+His Trumpian "Richmond First" slogan really means, "only people who currently live in the Richmond matter."
+
+Philhour and Shinzato are the pro-housing, pro-inclusivity candidates in the race.
+
+### Danny Sauter for District 3 Supervisor
+
+[Sauter](https://www.dannyd3.com/) seeks to provide District 3 with new leadership.
+It is desperately needed.
+
+Incumbent Aaron Peskin has, since being first elected in 2000, authored and supported [legislation](https://en.wikipedia.org/wiki/Aaron_Peskin#Housing_and_development) that has plunged San Francisco into its housing crisis.
+He's tried to block allowing housing at a hotel site and on Treasure Island.
+When not outright opposing housing projects, he has promoted tools like CEQA and historic preservation to de facto reduce the number of homes.
+He introduced [legislation](https://www.aaronpeskin2020.com/biography) that raises the share of housing units developers must reserve for low- and middle-income tenants to 32 percent; similar legislation [cratered development](https://medium.com/yimby/the-25-inclusionary-rate-is-killing-affordable-housing-db143c4abd31).
+And he's led [city resolutions](https://www.sfweekly.com/news/s-f-supervisors-call-for-amendments-to-sb-827/) to formally oppose state laws like SB 827 to legalize apartments.
+
+Peskin's bad policy extends beyond housing.
+He's proposed [banning employee cafeterias](https://www.sfchronicle.com/bayarea/article/SF-s-proposed-employee-cafeteria-ban-not-to-13121402.php) that create jobs for food workers, and wants to [tax vacant storefronts](https://www.bizjournals.com/sanfrancisco/news/2020/02/20/two-takes-on-the-vacancy-tax-ballot-measure.html), even if they're waiting on permits.
+He [capped permits](https://icosahedron-megalodon-8y6y.squarespace.com/results-page/#environmental) for alternative mobility options like bikeshare and scooters that reduce vehicle reliance.
+During the pandemic, he's enacted price controls on delivery companies and opposed the initial version of Measure RR to fund Caltrain with a sales tax.
+
+Finally, Peskin is personally unfit to serve the people of San Francisco.
+He has performed his duties while [intoxicated](https://www.sfchronicle.com/politics/article/SF-firefighters-say-Supervisor-Peskin-12803523.php), and is known for harassment.
+He [illegally converted](https://medium.com/@vwoo/the-hypocrisy-of-aaron-peskin-177a8a739423) a rent-controlled duplex into a single home, abusing his power, and then proposed legislation to slow even minor modifications to similar projects.
+
+Sauter could not be more different.
+On [housing](https://www.dannyd3.com/housing), he wants to "legalize apartment buildings," "reform discretionary review,"
+"prioritize transit-oriented development," and, for the first time in almost two decades, "set a goal and strategy for District 3 housing."
+On [transportation](https://www.dannyd3.com/transit), he wants to make it safer for pedestrians and bicyclists to get around, and improve transit.
+He's the respectful, thoughtful, policy-oriented leader District 3 deserves.
+
+
+### Vallie Brown for District 5 Supervisor
+
+[Brown](https://www.votevallie.com/) gets it on housing. She [promises to](https://www.votevallie.com/recovery):
+>Zone our neighborhoods for affordability with higher levels of density to meet the public demand for more housing and more 100% affordable housing. This must include removing the restrictions that have been designed to keep low-income renters out.
+
+and
+>Create new and denser housing on underutilized lots in the district on former commercial land and in our neighborhood corridors.
+
+Brown was one of only two supervisors to [vote against a slanderous resolution](https://www.thebaycitybeacon.com/politics/city-hall-summarized-housing-fails/article_e48523ae-5c77-11e9-b30c-8b16108deea6.html) to oppose SB 50, the state bill that would legalize apartments in transit- and job-rich areas.
+Her opponent, current supervisor Dean Preston, [made it clear](https://www.sfexaminer.com/news/wiener-calls-sf-supervisors-vote-against-sb50-a-sad-day/) that he would have voted for the resolution to oppose SB 50.
+
+She's far from just talk, having [approved housing](https://www.sfexaminer.com/news/long-delayed-housing-plan-on-divisadero-street-approved/) in her district as supervisor.
+Preston tried to block the project by [raising below-market requirements](https://www.sfchronicle.com/bayarea/article/186-apartments-to-replace-Touchless-car-wash-on-13992038.php).
+
+Preston would prefer a parcel remain empty than for people be able to live in non-100-percent-subsidized apartments there.
+Brown recognizes that 100 percent of zero is zero, and that people can only live in homes, not percentages.
+
+
+### Myrna Melgar for District 7 Supervisor
+
+Melgar, a current planning commissioner, [wants to](https://www.myrnamelgar.com/housing) "build more housing at every income level" and "encourage accessory dwelling units."
+She is alone in the field in this view.
+
+Opponent [Joel Engardio](https://www.engardio.com/housing), for example, "opposes attempts to eliminate or rezone single-family neighborhoods."
+
+Stephen Martin-Pinto doesn't mention housing on his [platform](https://www.stephenmartinpinto.com/my-platform), instead calling for counterproductive zero-tolerance homelessness policies.
+
+Ben Matranga also [doesn't mention housing](https://www.benmatranga.com/priorities).
+
+Emily Murase [promises](https://pdfhost.io/v/ReB4ayU8Y_EmilyMurasePositionspdf.pdf) to protect zoning for single family homes, and is "not unequivocally supportive of new housing along transit corridors."
+
+Vilaska Nguyen says, "Our neighborhoods are singular and architecturally unique and need to be preserved for future generations."
+(Read: He will continue banning apartments.)
+
+Legalizing apartments---any apartments---in the low-density District 7 should be a low bar in our progressive moment.
+Instead, all candidatesare siding with Donald Trump in preserving apartment bans---all candidates except Myrna Melgar.
+
+### Blank for District 9 Supervisor
+
+Incumbent Hillary Ronen is running unopposed.
+She has consistently opposed housing, [in her](https://missionlocal.org/2019/02/how-to-not-build-in-san-francisco-maximus-and-the-so-called-monster-in-the-mission/?unapproved=664873&moderation-hash=3e884ef764ee4a50f17b6fe35c97ff23#comment-664873) [district](https://missionlocal.org/2019/02/how-the-developer-of-sfs-historic-laundromat-quietly-won/) and [across California](https://sf.curbed.com/2019/3/26/18281546/sf-mar-wiener-sb-50-resolution-letter-transit-housing-density).
+She doesn't deserve a token vote.
+
+### Ahsha Safai for District 11 Supervisor
+
+[Safai](https://www.ahshaforsupervisor.com) approved housing in his district and was one of only two supervisors to vote against the anti-SB50 resolution.
+
+His opponent, former supervisor [John Avalos](https://avalos2020.com/issues/housing-affordability-16), is more of the same that has gotten San Francisco into its crisis, saying:
+>Top-down policies that push luxury development into our neighborhoods without concern for affordability and community stability will not solve our housing crisis.
+
+### Michelle Parker for Board of Education
+
+Parker is one of several candidates running against incumbents Jenny Lam and Mark Sanchez for re-election.
+Lam and Sanchez are mismanaging the Covid-19 crisis, dedicating resources to [school renamings](https://abc7news.com/san-francisco-schools-renamed-sfusd-third-sf-renaming-committee-slavery/7085284/) instead of bringing kids back.
+
+In [November 2018](https://maxghenis.medium.com/phil-kim-and-john-trasvi%C3%B1a-for-san-francisco-board-of-education-357b3a628f34), I did not vote for Parker, given her opposition to charter schools and proposal to reserve housing for teachers.
+I still oppose those stances, and I couldn't find evidence that she's changed them, but she is a qualified, [pro-tech](https://www.techworkers.vote/elections/2020-november/#michelle-parker), [pro-housing](https://yimbyaction.org/yimby-urbanist-voter-guide-2018/) candidate with a good chance of winning a seat and otherwise good values.
+
+Another candidate I voted against in 2018 is Alida Fisher, who shared her outright nativism in a [2018 questionnaire](https://maxghenis.medium.com/phil-kim-and-john-trasvi%C3%B1a-for-san-francisco-board-of-education-357b3a628f34):
+>Lotteries for low and middle income housing, as well as down payment assistance programs, should also provide priority or tie breaker options for young San Franciscans whose families have been in San Francisco for at least a generation.
+
+Parker would be better than the incumbents and the competition.
+
+
+### Victor Olivieri and Jeanette Quick for Community College Board
+
+Olivieri and Quick are among the candidates running against incumbents Tom Temprano and Shanell Williams.
+They support housing on land controlled by the board, with Olivieri having been [previously endorsed](https://yimbyaction.org/yimby-urbanist-voter-guide-2018/
+) by YIMBY (they didn't endorse for school or college board this cycle).
+
+Williams [sought to delay](https://www.inglesidelight.com/1100-unit-balboa-reservoir-development-project-clears-two-supervisor-committees/) approval of a housing development at Balboa Reservoir, of which the board has control.
+Temprano has been [more supportive](https://www.sfexaminer.com/news/ccsf-board-disagrees-over-future-of-balboa-reservoir-development/) of the project, but has not committed to maximizing total housing units at the site.
+
+
+### Lateefah Simon for BART Board of Directors District 7
+
+Simon, the incumbent, [supports](https://yimbyaction.org/endorsements/san-francisco/) building housing at all affordability levels on BART land.
+
+
+### Bevan Dufty for BART Board of Directors District 9
+
+According to [SF YIMBY's endorsement](https://yimbyaction.org/endorsements/san-francisco/#bart-board), Dufty, the incumbent, "has supported all transit-oriented development projects on BART property that have come up to the board" and voted for a pro-SB50 resolution.
+
 
 ## Ballot measures
 
 ### Yes on Prop A
 
 Prop A is a bond for homelessness, parks, street and sidewalk safety.
+
+Local bonds are a great way to fund priorities since they can raise property taxes beyond the far-too-law rate of one percent dictated by 1978 Prop 13.
+Because property values in San Francisco are primarily land values, property taxes function nearly as land value taxes, which are one of the most efficient forms of taxation.
+Landlords [cannot pass on land value taxes](https://economics.stackexchange.com/questions/24352/why-cant-the-land-value-tax-in-some-cases-be-passed-on-to-tenants) to tenants because the supply of land is fixed.
+
+The programs this would fund are also valuable.
+While [2018 Prop C](https://maxghenis.medium.com/no-on-san-francisco-proposition-c-a8b4710a45b0) created the largest budget set-aside in history, locking in nearly \$700 million per year to homelessness in perpetuity, there are probably some valuable uses of marginal dollars for homelessness;
+if nothing else, SF could give homeless people money, as an organization in Canada recently piloted, with [positive results](https://forsocialchange.org/new-leaf-project-overview). 
+San Francisco is sorely lacking in parks, and street and sidewalk safety have much room for improvement.
+Prop A funds important programs with an efficient tax.
+Vote yes.
 
 
 ### No on Prop B
