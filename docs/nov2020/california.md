@@ -95,6 +95,7 @@ Criminal disenfranchisement has a [racist history](https://www.annualreviews.org
 Granting parolees the franchise can address these ills. It will not the final step in increasing political participation: [informing parolees of their new rights](https://scholar.harvard.edu/files/morse/files/iowa.pdf), joining [Vermont and Maine](https://www.spur.org/voter-guide/san-francisco-2020-11/prop-17-voting-rights-people-parole) in allowing prisoners to vote, making it easier for young people to vote, enabling non-citizens to serve on commissions, and many other reforms will help as well. But Prop 17 makes substantial progress toward a more inclusive democracy.
 
 
+(nov2020-ca-prop18)=
 ## Yes on Prop 18
 
 Prop 18 allows 17-year-olds who will be 18 at the time of the next general election to vote in primaries and special elections. Expanding the franchise promotes democracy, and by giving 17-year-olds the opportunity to vote in these lower-stakes elections while still at home with higher-voting-propensity parents, this could feed a cycle of improved voter participation long-term, especially among young people. Vote yes.
