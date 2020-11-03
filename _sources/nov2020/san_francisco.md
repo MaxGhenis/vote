@@ -301,6 +301,7 @@ Rejecting this flawed proposal now creates an opportunity for leaders to bring t
 [^sf-general-fund]: The [budget for San Francisco](https://sfmayor.org/sites/default/files/CSF_Proposed_Budget_Book_July_2020_LR_Web_REV2.pdf) is \$13.7 billion in FY 2020-21, of which the General Fund comprises about half.
 
 
+(nov2020-sf-propg)=
 ### Yes on Prop G
 
 Prop G allows 16- and 17-year-olds to vote in local elections.
