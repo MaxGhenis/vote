@@ -5,3 +5,7 @@
     - file: nov2020/california
     - file: nov2020/ventura-county
     - file: nov2020/san-francisco
+
+- part: January 2021
+  chapters:
+    - file: jan2021/adem
