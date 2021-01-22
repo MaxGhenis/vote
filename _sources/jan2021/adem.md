@@ -37,6 +37,7 @@ This includes candidates from both slates and independents like myself.
 * **Mercy Urrea** is also a union leader who supports housing.
 * **Orion Tripodis** strongly supports carbon fee-and-dividend.
 * **Alessandro Neri** supports housing development and carbon fee-and-dividend.
+* **Henry Montalvo** chairs the Ventura County Democratic Party and generally supports policies that will increase the supply of housing.
 * **Danny Chulack** didn't complete either questionnaire, but he completed the YIMBY questionnaire when he ran for Thousand Oaks City Council in November. He earned our endorsement with his strong responses, and I'm confident he'd support housing at the convention and on the Central Committee.
 
 
