@@ -22,23 +22,13 @@ CCL does not endorse candidates.
 I believe a number of candidates would perform well, but as a matter of principle, I'm only voting for (and suggesting voting for) candidates who completed at least one of these two candidate questionnaires.
 Delegates play political roles, and their constituents deserve to know where they will stand on important issues.
 
-### [Assembly District 44](https://adem.cadem.org/assembly-districts/ad-44/)
 
-AD44 runs from Thousand Oaks to Oxnard. I live here, I'm running here, and I've done more research on candidates here than any other district.
-I've spoken with some other pro-housing candidates such as Josh Donner, David Pollock, and Michaela Perez, 
-and I generally prefer [their slate](https://linktr.ee/electprogressivelaborad44) to the competing one, which is more DSA-aligned.
-However, I'm limiting my votes to candidates who submitted favorable YIMBY or CCL questionnaire responses.
-This includes candidates from both slates and independents like myself.
+### [Assembly District 37](https://adem.cadem.org/assembly-districts/ad-37-2/)
 
-* **Max Ghenis** is me. My website, [maxforadem.com](http://maxforadem.com) has my platform and background.
-* **Rebekah Sneha Daniel** strongly supports the Energy Innovation and Carbon Dividend Act, CCL's federal carbon fee-and-dividend legislation.
-* **Martha Martinez-Bravo** strongly supports Citizens' Climate Lobby and is generally supportive of new housing, while also being open about wanting to learn more about the issue.
-* **Anthony Mireles** is a union leader who supports housing.
-* **Mercy Urrea** is also a union leader who supports housing.
-* **Orion Tripodis** strongly supports carbon fee-and-dividend.
-* **Alessandro Neri** supports housing development and carbon fee-and-dividend.
-* **Henry Montalvo** chairs the Ventura County Democratic Party and generally supports policies that will increase the supply of housing.
-* **Danny Chulack** didn't complete either questionnaire, but he completed the YIMBY questionnaire when he ran for Thousand Oaks City Council in November. He earned our endorsement with his strong responses, and I'm confident he'd support housing at the convention and on the Central Committee.
+AD37 includes parts of northern Ventura County and Santa Barbara County.
+
+* **Nicholas Begane** supports both housing and carbon fee-and-dividend.
+* **Diana Sparagna** supports housing development and has put that support into action as a commissioner on the San Buenaventura (city of Ventura) Housing Authority.
 
 
 ### [Assembly District 38](https://adem.cadem.org/assembly-districts/ad-38/)
@@ -57,10 +47,21 @@ AD38 includes Simi Valley and parts of Los Angeles County.
 * **Gracie Pekrul** supports housing.
 * **Shawnee Badger** supports housing.
 
-### [Assembly District 37](https://adem.cadem.org/assembly-districts/ad-37-2/)
 
-AD37 includes parts of northern Ventura County and Santa Barbara County.
+### [Assembly District 44](https://adem.cadem.org/assembly-districts/ad-44/)
 
-* **Nicholas Begane** supports both housing and carbon fee-and-dividend.
-* **Diana Sparagna** supports housing development and has put that support into action as a commissioner on the San Buenaventura (city of Ventura) Housing Authority.
+AD44 runs from Thousand Oaks to Oxnard. I live here, I'm running here, and I've done more research on candidates here than any other district.
+I've spoken with some other pro-housing candidates such as Josh Donner, David Pollock, and Michaela Perez, 
+and I generally prefer [their slate](https://linktr.ee/electprogressivelaborad44) to the competing one, which is more DSA-aligned.
+However, I'm limiting my votes to candidates who submitted favorable YIMBY or CCL questionnaire responses.
+This includes candidates from both slates and independents like myself.
 
+* **Max Ghenis** is me. My website, [maxforadem.com](http://maxforadem.com) has my platform and background.
+* **Rebekah Sneha Daniel** strongly supports the Energy Innovation and Carbon Dividend Act, CCL's federal carbon fee-and-dividend legislation.
+* **Martha Martinez-Bravo** strongly supports Citizens' Climate Lobby and is generally supportive of new housing, while also being open about wanting to learn more about the issue.
+* **Anthony Mireles** is a union leader who supports housing.
+* **Mercy Urrea** is also a union leader who supports housing.
+* **Orion Tripodis** strongly supports carbon fee-and-dividend.
+* **Alessandro Neri** supports housing development and carbon fee-and-dividend.
+* **Henry Montalvo** chairs the Ventura County Democratic Party and generally supports policies that will increase the supply of housing.
+* **Danny Chulack** didn't complete either questionnaire, but he completed the YIMBY questionnaire when he ran for Thousand Oaks City Council in November. He earned our endorsement with his strong responses, and I'm confident he'd support housing at the convention and on the Central Committee.
