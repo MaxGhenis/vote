@@ -14,15 +14,15 @@ jobs:
           persist-credentials: false
 
       # Install dependencies
-      - name: Set up Python 3.8
+      - name: Set up Python 3.9
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: 3.9
   
       - name: Build  # Build Jupyter Book
         shell: bash -l {0}
         run: |
-            pip install -U "jupyter-book>=0.8.2"
+            pip install -U jupyter-book
             jb build docs/.
 
       - name: Deploy
