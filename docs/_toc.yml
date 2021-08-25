@@ -1,11 +1,14 @@
 format: jb-book
 root: index
 parts:
+- caption: September 2021
+  chapters:
+  - file: sep2021/california
+- caption: January 2021
+  chapters:
+  - file: jan2021/adem
 - caption: November 2020
   chapters:
   - file: nov2020/california
   - file: nov2020/ventura-county
   - file: nov2020/san-francisco
-- caption: January 2021
-  chapters:
-  - file: jan2021/adem
