@@ -2,40 +2,71 @@
 
 California's 2022 primary election is on Tuesday, June 7.
 
-### MICHAEL SHELLENBERGER for Governor
+### GAVIN NEWSOM for Governor
 
-Governor Newsom has disappointed me.
-He's been lukewarm on housing bills that would achieve the ambitious goals he ran on, and his budget this year calls for an atrocious $11 billion in vehicle subsidies, between cutting the gas tax and per-vehicle payments.
+Governor Gavin Newsom has disappointed me.
+He's been lukewarm on housing bills that would achieve the ambitious goals he ran on, and his budget this year calls for an atrocious $11 billion in vehicle subsidies, between cutting the gas tax and giving money to vehicle owners.
 Unfortunately, none of the 25 candidates 
 
-The closest is [Michael Shellenberger](), who describes himself as a "Homelessness Policy Advocate" on the ballot, but who is probably best known as a nuclear energy advocate.
+The closest is [Michael Shellenberger](https://www.shellenbergerforgovernor.com/), who describes himself as a "Homelessness Policy Advocate" on the ballot, but who is probably best known as a nuclear energy advocate.
 In the 2018 primary, [I would have voted for Shellenberger on the issues](https://maxghenis.medium.com/shellenberger-is-the-best-candidate-for-governor-but-villaraigosa-is-the-best-strategic-choice-for-d19cb4f205d5), but instead chose to vote strategically for the number-two-polling Democrat to ensure a Democrat won the general (it didn't work, but Newsom won handily anyway).
-Back then, Shellenberger was the only candidate to support SB 827, the state bill that would legalize apartments near transit, and he was mostly a 
+Back then, Shellenberger won me over by being the only candidate to support SB 827, the state bill that would legalize apartments near transit, and taking on special interests by advocating reforms to CEQA, pensions, and teacher pay.
 
-Today, Shellenberger is the 
-As [Scott Alexander said in his review of all the candidates](https://astralcodexten.substack.com/p/california-gubernatorial-candidates?s=r), I am really split on this guy. 
+Today, Shellenberger has, let's say, leaned into controversy.
+His latest project has been 
+As [Scott Alexander said in his review of all 26 candidates](https://astralcodexten.substack.com/p/california-gubernatorial-candidates?s=r), I am really split on this guy.
 
-To be clear, Shellenberger will make it past the primary.
+To be clear, Shellenberger will not make it past the primary.
 In November, Newsom will face a Republican, either [GOP-endorsed Brian Dahle](https://www.cagop.org/s/endorsements) or [high-fundraising Jenny Rae Le Roux](https://ballotpedia.org/California_gubernatorial_election,_2022_(June_7_top-two_primary)), and Newsom will win.
+But Shellenberger's ideas deserve more attention, 
 
 ### ELENI KOUNALAKIS for Lieutenant Governor
 
 [I voted for now-Lieutenant Governor Kounalakis in the 2018 primary](), while suggesting that California join the seven other states without a Lieutenant Governor office.
 Since her election, I haven't really heard anything noteworthy about her (again indicating that we'd be fine without the position), but now that she's running for re-election, she has no serious Democratic opponents.
 
-### TBD for Secretary of State
+### SHIRLEY WEBER for Secretary of State
 
-### TBD for Controller
+Governor Newsom appointed Shirley Weber to fill Alex Padilla's spot when he filled Kamala Harris's Senate seat.
+[As GrowSF has described](https://growsf.org/voter-guide/#secretary-of-state), Weber has an impressive career and a record of valuing performance in the public sector.
+Re-elect her.
 
-### TBD for Treasurer
+### LANHEE CHEN for Controller
+
+[As GrowSF described](https://growsf.org/voter-guide/#controller), multiple candidates are qualified to fill the shoes of Betty Yee ([whom I voted for in 2018](https://maxghenis.medium.com/re-elect-betty-yee-for-controller-f071d94977c3)).
+Yee has endorsed Board of Equalization member Malia Cohen ([whom I also voted for in 2018](https://maxghenis.medium.com/malia-cohen-for-board-of-equalization-district-2-8ec8a31958ed)) and Los Angeles Controller Ron Galperin.
+State Senator Steve Glazer has the strongest legislative experience, and I personally admire his commitment to a renters' tax credit expansion he's proposed in multiple sessions.
+
+However, given the Controller's role as a fiscal watchdog, I'm voting for the leading candidate who promises to hold Sacramento's Democratic supermajority to account---maybe even challenge them.
+Chen, a Republican, worked at the Department of Health and Human Services under George W. Bush, then as policy director for Mitt Romney's 2012 presidential campaign, then was appointed by Barack Obama to the Social Security Advisory Board, and is now a research fellow at Stanford's Hoover Institution.
+I prefer Democratic Party policies, and so I almost always vote for Democrats for policymaking roles, but Lanhee Chen will provide the necessary independence for this non-policymaking role.
+
+### FIONA MA for Treasurer
+
+Fiona Ma is the incumbent, sole Democrat, and most serious and qualified candidate in the race.
+[I voted for her opponent, Vivek Viswanathan, in 2018](https://maxghenis.medium.com/vivek-viswanathan-for-treasurer-efe9156c90e7), but she faces no similar challengers this time around.
 
 ### ROB BONTA for Attorney General
 
 Since his appointment, Rob Bonta has used the powers of the office to address the housing crisis by taking action against cities that flaunt state housing law.
 This has earned him [YIMBY Action's sole endorsement for statewide office this election](https://yimbyaction.org/endorsements/california/#statewide), and it should earn him your vote.
 
-### TBD for Insurance Commissioner
+### RICARDO LARA for Insurance Commissioner
 
-### TBD for Board of Equalization, District 2
+I basically agree with [GrowSF](https://growsf.org/voter-guide#insurance-commissioner) here: incumbent Ricardo Lara isn't great, especially his move to force insurance companies to cover high-risk properties (he also wrote legislation around this in the Assembly before becoming Insurance Commissioner).
+In fact, I think I made the wrong call [voting for him over Steve Poizner in 2018](https://maxghenis.medium.com/ricardo-lara-for-insurance-commissioner-8ff0ced82b03).
+But nobody else is better this cycle.
 
-### TBD for Superintendent of Public Instruction
+### MICHELA ALIOTO-PIER for Board of Equalization, District 2
+
+As I wrote in 2018, [the Board of Equalization ostensibly  doesn't do much](https://maxghenis.medium.com/malia-cohen-for-board-of-equalization-district-2-8ec8a31958ed) and I'd prefer if it were abolished, but the election can be important to the extent that members move on to other political office.
+Indeed, the candidate I endorsed then, Malia Cohen, won her seat and is now running for Controller.
+
+The two Democrats running are former San Francisco Supervisor [Michela Alioto-Pier](https://www.michelaaliotopier.com) and former Assemblymember [Sally Lieber](https://www.sallylieber.org/).
+While they seem similarly qualified on paper, Lieber doesn't seem to be running a serious campaign; her website doesn't even list her endorsements (given the absence of policy impact the role involves, this is the main signal).
+
+### TONY THURMOND for Superintendent of Public Instruction
+
+In 2018, [I voted for Marshall Tuck for Superintendent](https://maxghenis.medium.com/marshall-tuck-for-state-superintendent-of-public-instruction-69c5ed3ad607), a reformer who narrowly lost to Tony Thurmond.
+Thurmond supports childcare subsidies and teacher housing over charter schools and rewards for high-performing teachers.
+Unfortunately, he doesn't have any serious liberal challengers, and so he'd be most qualified for the job.
