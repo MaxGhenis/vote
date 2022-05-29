@@ -30,23 +30,19 @@ Summary text from [Ballotpedia](https://ballotpedia.org/California_2020_ballot_p
 
 **YES on Prop 25**, which replaces cash bail with risk assessments for suspects awaiting trial.
 
-
 ## Yes on Prop 14
 
 Prop 14 issues \$5.5 billion in general obligation bonds to continue funding the California Institute of Regenerative Medicine (CIRM), which conducts stem cell research. Combined with \$2.3 billion in interest, the bond will cost the state [\$260 million per year](https://lao.ca.gov/ballot/2020/Prop14-110320.pdf) from its General Fund for the next 30 years.
 
 I wasn't planning on voting for Prop 14. State general obligation bonds are effectively budget set-asides, tying the hands of the legislature in normal budgeting processes. They limit our ability to respond to changing conditions, such as the Covid-19 emergency. Unlike local general obligation bonds, which are repaid in property taxes, state bonds don't raise any tax revenue. That means each dollar that pays for debt repayments is a dollar that can't fund other General Fund programs, 80 percent of which makes Californians healthier, more educated, and less poor.
 
-
-![California budget, 2020](../_static/nov2020/california/prop14/budget.png "California budget, 2020")
-
+![California budget, 2020](../../_static/2020/11/california/prop14/budget.png "California budget, 2020")
 
 I was persuaded to change my vote by Alexander Berger, Managing Director of the [Open Philanthropy Project](https://www.openphilanthropy.org/) ("Open Phil"), one of the most prominent and, in my opinion, credible effective altruism philanthropic organizations. Open Phil is the sister organization to GiveWell, which identifies cost-effective charities for saving lives, like malaria bed nets, guiding the vast majority of my personal [giving](https://medium.com/@MaxGhenis/why-ive-taken-the-giving-what-we-can-pledge-d5576f23df10). Berger [wrote](https://docs.google.com/document/d/1xXv_4Y3O4dZCRXYNakoQ79Lq2J-6Hf9qHxM-MgRVGak/edit) about Open Phil's science team finding that CIRM's grants are "as good or better than average funding from the NIH" and how this basic research is a highly cost-effective global public good. Ideally, the legislature would budget for such a beneficial program, but Berger [predicted](https://twitter.com/albrgr/status/1316042574222811136) that CIRM would be "dead or massively shrunk if 14 fails." This led Open Phil to [contribute \$580,000](https://www.openphilanthropy.org/focus/scientific-research/californians-for-stem-cell-research-treatments-and-cures-cirm) to get Prop 14 on the ballot.
 
 Stem cell research is already bearing fruit in helping to develop potential [Covid-19 vaccines and treatments](https://www.uclahealth.org/how-ucla-scientists-are-using-stem-cells-to-take-on-covid19), and has a bright future in developing new therapies. California's interest rate on bonds is below inflation, and Prop 14 locks in research budgets to help CIRM focus on long-term basic research that benefits the planet. I trust Berger and Open Phil to make the right decision here, so despite my reservations about good governance, I'm voting to continue this funding stream.
 
 (I'm also voting for Propositions 15 and 19 which directly increase tax revenue, for Prop 22 which indirectly increases revenue, and against Propositions 21 and 23 which indirectly reduce net tax revenue, so that we can fund more programs like this without a zero-sum approach.)
-
 
 ## Yes on Prop 15
 
@@ -61,7 +57,6 @@ Consumers and workers would also bear some of the costs, given the evidence that
 Finally, there's a political risk that carving out the least sympathetic beneficiaries of 1978 Prop 13---large commercial property owners---makes a grand bargain that includes residential property tax reform less likely. Residential Prop 13 benefits make California resemble an aristocracy, with newcomers subsidizing the public services used by longtime incumbents through higher property taxes and higher income taxes, needed to offset the low property tax revenue. However, defeating parts of Prop 13 through split-roll and cutting its inheritability, could give it the momentum needed to chip away over time.
 
 Overall, Prop 15's benefits are clear: billions in revenue for local governments and schools as we dig our way out of a historic recession, funded by incumbent businesses who've had a nativist property tax break for too long. The risks around housing production, tax incidence, and political bargaining are directionally uncertain and clearly smaller than the advantages. This is one of the most consequential measures on the ballot, improving California's tax system and fiscal situation for decades to come. Vote yes.
-
 
 ## No on Prop 16
 
@@ -85,7 +80,6 @@ Finally, and on a personal note, demographic trends make race-conscious policies
 
 If we want an egalitarian, race-blind future, we need to create it today.
 
-
 ## Yes on Prop 17
 
 Prop 17 would allow California residents on state parole, currently about [50,000 people](https://lao.ca.gov/ballot/2020/Prop17-110320.pdf), to vote.
@@ -94,14 +88,13 @@ Criminal disenfranchisement has a [racist history](https://www.annualreviews.org
 
 Granting parolees the franchise can address these ills. It will not the final step in increasing political participation: [informing parolees of their new rights](https://scholar.harvard.edu/files/morse/files/iowa.pdf), joining [Vermont and Maine](https://www.spur.org/voter-guide/san-francisco-2020-11/prop-17-voting-rights-people-parole) in allowing prisoners to vote, making it easier for young people to vote, enabling non-citizens to serve on commissions, and many other reforms will help as well. But Prop 17 makes substantial progress toward a more inclusive democracy.
 
-
 (nov2020-ca-prop18)=
+
 ## Yes on Prop 18
 
 Prop 18 allows 17-year-olds who will be 18 at the time of the next general election to vote in primaries and special elections.
 Expanding the franchise promotes democracy, and by giving 17-year-olds the opportunity to vote in these lower-stakes elections while still at home with higher-voting-propensity parents, this could feed a cycle of improved voter participation long-term, especially among young people.
-For a deeper justification of this kind of policy change, [based on this New York Times investigation](https://www.nytimes.com/2020/10/08/upshot/youth-voting-2020-election.html) and empirical studies, see my recommendation to vote {ref}`yes on San Francisco Prop G<nov2020-sf-propg>`.
-
+For a deeper justification of this kind of policy change, [based on this New York Times investigation](https://www.nytimes.com/2020/10/08/upshot/youth-voting-2020-election.html) and empirical studies, see my recommendation to vote {ref} `yes on San Francisco Prop G<nov2020-sf-propg>` .
 
 ## Yes on Prop 19
 
@@ -121,23 +114,17 @@ Just before the 2018 election, the impact of Prop 13 inheritance also became mor
 
 Prop 19 trades off the inequities of 2018 Prop 5 for the inequities of Prop 13 inheritance. I have no philosophical prior on whether Prop 13 portability or inheritance is worse, so I've relied on the California Legislative Analyst Office, which [projected](https://lao.ca.gov/BallotAnalysis/Proposition?number=19&year=2020) that the trade will generate hundreds of millions of dollars per year in net tax revenue. That seals the deal for me: it indicates that it weakens Prop 13 overall and provides more resources for local governments and schools when they need it most. Vote yes.
 
-
 ## No on Prop 20
 
 Prop 20 increases penalties for theft-related crimes, and makes it harder to get out of prison early. This plainly goes the wrong direction on criminal justice reform, where the [United States leads](https://en.wikipedia.org/wiki/List_of_countries_by_incarceration_rate#Main_table) in destroying lives. Vote no.
-
 
 ## No on Prop 21
 
 Prop 21 largely repeals the [Costa-Hawkins Act](https://en.wikipedia.org/wiki/Costa%E2%80%93Hawkins_Rental_Housing_Act), a 1995 law that limits cities' ability to enact rent control. Under Costa-Hawkins, rent control cannot apply to single-family homes, condos, and units built after the earlier of 1995 or the city’s passage of their rent control (for example, 1979 in San Francisco). Costa-Hawkins also prohibits cities from limiting rent increases after a tenant moves out of their unit (such rent increase limitations are known as vacancy control).
 
-
-![Trajectory of rents under rent control](../_static/nov2020/california/prop21/arrows.png "Trajectory of rents under rent control")
-
+![Trajectory of rents under rent control](../../_static/2020/11/california/prop21/arrows.png "Trajectory of rents under rent control")
 
 Prop 21 follows November 2018 Prop 10, which also repealed Costa-Hawkins. I was among the 60 percent of Californians who [voted against Prop 10](https://medium.com/@MaxGhenis/no-on-california-proposition-10-60bb5131925e), for a few reasons:
-
-
 
 1. Rent control's savings for incumbents come at the expense of newcomers and others who have to move, who pay higher housing costs thanks to lower supply of rental housing, according to a [2017 Stanford study](https://www.aeaweb.org/articles?id=10.1257/aer.20181289).
 2. Other research shows that rent control [reduces the quality of rental housing](https://www.nmhc.org/news/articles/the-high-cost-of-rent-control/) (especially vacancy control, which removes the incentive to improve units after a tenant moves out), [increases homelessness](https://www.sciencedirect.com/science/article/pii/S0094119096910852), [lengthens commutes](https://www.sciencedirect.com/science/article/pii/S0094119005000124), and keeps people from [living where they want to live](https://www.aeaweb.org/articles?id=10.1257/000282803769206188), and that its benefits [accrue disproportionately to rich people](https://www.nmhc.org/news/articles/the-high-cost-of-rent-control/).
@@ -149,11 +136,9 @@ Legislation from 2019 makes Prop 21 especially inappropriate: [Assembly Bill 148
 
 Prop 21 improves upon 2018 Prop 10 by setting a minimum exemption of 15 years, such that brand-new buildings can increase rents up to AB 1482's limits. While this prevents the worst potential excesses of rent control, of the form the Policy Directory for UC Berkeley's Terner Center for Housing Innovation [described as](https://sf.curbed.com/2018/8/1/17639734/rent-control-debate-california-prop10-costa-hawkins) "a de facto ban on new housing," it still permits rent control laws that would dramatically reduce the incentive to build. For example, I [simulated](https://colab.research.google.com/drive/1bZNKKWcWgKpmV_Xbu_qvfot9luCjqmci) the effect of rent control laws under conditions that are reasonable by historical standards, and found that a 15-year exemption window would still reduce the net present value of a housing development by over 30 percent. When the payoff is 30 percent less, many housing projects fail to pencil out, and California's [worst-in-the-nation housing shortage](https://twitter.com/MaxGhenis/status/1187898060409466882) (producing [worst-in-the-nation poverty](https://twitter.com/MaxGhenis/status/1306207987229290496)) worsens.
 
-
-![NPV](../_static/nov2020/california/prop21/npv.png "NPV")
+![NPV](../../_static/2020/11/california/prop21/npv.png "NPV")
 
 The philosophical underpinning of Prop 21 is a conservative one: local control is best, especially to benefit incumbents. This ethos has been the status quo in California, enabling cities to [repeatedly shirk](http://www.socketsite.com/archives/2009/10/the_scoop_430_main429_beale_development_delayed_if_not.html) [responsibility](https://sf.curbed.com/2018/2/14/17012606/laundromat-2918-mission-delay-historic-ronen) [to build](https://la.curbed.com/2018/6/7/17438750/silver-lake-gas-station-landmark-historic-texaco) [badly-needed](http://www.marinij.com/article/NO/20171212/NEWS/171219932) [housing](https://www.bizjournals.com/sanfrancisco/news/2017/10/31/north-coast-land-holdings-marin-county.html). More local control is not better, just as more states' rights are not better; what matters is results. The state has already formed a rent control law that avoids exclusionary policies cities would double down on if given the chance. Costa-Hawkins prevents cities from depressing property values and lowering tax revenues by as much as [hundreds of millions of dollars per year](https://lao.ca.gov/BallotAnalysis/Proposition?number=21&year=2020). Rather than repeal it, we should instead invest in aggressive redistributional policies that keep people in their homes without offloading the costs to newcomers.
-
 
 ## Yes on Prop 22
 
@@ -193,7 +178,6 @@ ballot measures can have reasonable safeguards to ensure the will of the people 
 
 Prop 22 redresses an unjust, corrupt law, preserving the flexibility of modern economic opportunities and expanding them with benefits like earnings minimums and a health insurance stipend. According to the nonpartisan Legislative Analyst Office, it will [increase total driver earnings and tax revenue](https://lao.ca.gov/BallotAnalysis/Proposition?number=22&year=2020). While we also need better transit and safer bicycle infrastructure, and to allow denser, more walkable cities, Prop 22 will also reduce personal vehicle ownership and its many ills. Vote yes.
 
-
 ## No on Prop 23
 
 According to [Ballotpedia](https://ballotpedia.org/California_Proposition_23,_Dialysis_Clinic_Requirements_Initiative_(2020)#California_Proposition_8_.282018.29):
@@ -212,7 +196,6 @@ Prop 23 also exacerbates existing problems in our healthcare system by worsening
 
 Between 2018 Prop 8 and 2020 Prop 23, over \$230 million will have been spent educating voters about kidney treatment esoterica. That's money that would otherwise be improving the quality and/or affordability of treatment for dialysis patients. It's an abuse of democracy for regulatory capture that voters must, again, reject.
 
-
 ## No on Prop 24
 
 Prop 24 expands consumer data privacy laws, making the existing California Consumer Privacy Act more closely resemble Europe's [Global Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR). Enacted in 2018, GDPR is the reason that every site asks you to confirm cookies; although it affects Europeans only, websites can't be sure if a user is European, and the potentially enormous fines make it not worth the risk.
@@ -220,7 +203,6 @@ Prop 24 expands consumer data privacy laws, making the existing California Consu
 GDPR goes beyond cookie notices though, regulating how long certain data can be held, what kinds of processes must be used to store personal data, and so on. The regulations are so complex that compliance is often infeasible for smaller companies. The result is [reduced competition](https://academic.oup.com/jcle/article-abstract/16/3/349/5837809) in the tech sector, with big companies like Google (my former employer) charging small businesses for services that deal with the regulations; these costs ultimately prevent new businesses from entering.
 
 Other jurisdictions should be cautious about creating new versions of GDPR. If every country had its own data privacy laws, it could become difficult or impossible for websites to comply with all simultaneously (any website on Earth could be serving California users). California doing it would be better than cities, as San Francisco attempted in [2018 Prop B](https://medium.com/@MaxGhenis/no-on-san-francisco-proposition-b-55da509caed5), but jurisdictions of 40 million people are still too fine-grained. This is a matter for the legislature to consider, and ideally for them to defer to the federal government, which would approach data privacy in the international setting it demands. Vote no.
-
 
 ## Yes on Prop 25
 
