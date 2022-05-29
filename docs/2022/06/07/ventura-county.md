@@ -91,13 +91,13 @@ If you've been exposed to the housing approval process, Measures A and B may sou
 Discretionary environmental reviews often obstruct the development of dense housing and non-vehicle infrastructure like bike lanes, even if they would benefit the environment.
 And indeed, the leader of the VC-SAFE campaign, Merrill Berge, is one of Ventura County's most prominent anti-density advocates.
 Berge came on the local politics scene by [spending seven years fighting a 2,500-home development in Camarillo](https://www.vcstar.com/story/news/2017/10/25/crusaders-win-camarillo-development-battle-tactics-and-grit/748273001), including creating the NIMBY organization [Camarillo Sustainable Growth](http://camarillo-smart-growth.org/).
-She is also on the board of [Save Open Space & Agricultural Resources (SOAR)](https://www.soarvc.org/about/what-is-soar/), a ballot measure to prevent farmers from building homes on their property, which passed in 2016.
+She is also on the board of [Save Open Space & Agricultural Resources (SOAR)](https://www.soarvc.org/about/what-is-soar/), an organization promoting the successful 2016 ballot measure to prevent farmers from building homes on their property.
 Her role in VC-SAFE appears to connect to her board chair position at [Climate First: Replacing Oil & Gas (CFROG)](https://cfrog.org/who-we-are/board-of-directors/).
 It brings me no joy to side with fossil fuel companies, but VC-SAFE leadership has arguably done even more damage to the environment by preventing people from living in low-carbon dense homes in coastal California.
 
 The direct impacts of Measures A and B include lower domestic oil production--which will be partly offset by imports--leading to lower emissions and pollution globally, at the expense of local economic activity, including jobs and tax revenue.
-In 2021, I might have felt differently, but the current times justify trading off some environmental benefits to weaken Russia by reducing imports, and that includes increasing (or at least not decreasing) domestic oil production.
-But I hold that view only weakly, and I could be persuaded that we shouldn't adjust long-term policy for immediate geopolitics.
+In 2021, I might have felt differently, but I currently believe that current geopolitics justify trading off some environmental benefits to weaken Russia by reducing imports, and that includes increasing (or at least not decreasing) domestic oil production.
+But I hold that view only weakly, and I could be persuaded that we shouldn't adjust long-term policy for short-term circumstances.
 
 A view I hold more strongly is the importance of rule of law.
 Measures A and B increase dependence on discretionary processes, which are great for consultants and corrupt politicians, but threaten the rest of our democratic system.
