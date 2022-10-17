@@ -1,9 +1,9 @@
 format: jb-book
 root: index
 parts:
-  # - caption: November 2022
-  #   chapters:
-  #     - file: 2022/11/california
+  - caption: November 2022
+    chapters:
+      - file: 2022/11/california
   - caption: June 2022
     chapters:
       - file: 2022/06/california
