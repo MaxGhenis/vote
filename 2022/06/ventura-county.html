@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Ventura County &#8212; Max Ghenis&#39;s voter guide</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet">
-  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="../../_static/doctools.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="../../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="../../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -72,7 +71,21 @@ const thebe_selector_output = ".output, .cell_output"
                     </script>
 
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -81,9 +94,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -101,14 +115,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../index.html">
-   Voter guide
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../index.html">
+                    Voter guide
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   June 2022
  </span>
@@ -185,12 +200,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -198,61 +218,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../../_sources/2022/06/ventura-county.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../../_sources/2022/06/ventura-county.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#federal-office">
    Federal office
@@ -331,12 +407,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Ventura County</h1>
@@ -431,53 +506,54 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="ventura-county">
-<h1>Ventura County<a class="headerlink" href="#ventura-county" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="ventura-county">
+<h1>Ventura County<a class="headerlink" href="#ventura-county" title="Permalink to this headline">#</a></h1>
 <p>California’s 2022 primary election is on Tuesday, June 7.</p>
-<div class="section" id="federal-office">
-<h2>Federal office<a class="headerlink" href="#federal-office" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="julia-brownley-for-california-s-26th-congressional-district">
-<h3>JULIA BROWNLEY for California’s 26th Congressional District<a class="headerlink" href="#julia-brownley-for-california-s-26th-congressional-district" title="Permalink to this headline">¶</a></h3>
+<section id="federal-office">
+<h2>Federal office<a class="headerlink" href="#federal-office" title="Permalink to this headline">#</a></h2>
+<section id="julia-brownley-for-california-s-26th-congressional-district">
+<h3>JULIA BROWNLEY for California’s 26th Congressional District<a class="headerlink" href="#julia-brownley-for-california-s-26th-congressional-district" title="Permalink to this headline">#</a></h3>
 <p>Representative Julia Brownley is the only Democrat in the race.
 The incumbent faces four competitors: three Republicans and one independent, Dave Goodman, who isn’t a serious challenger.
 Representative Brownley is a pretty standard Democrat; I’ve wished she would do more, like cosponsoring the <a class="reference external" href="https://energyinnovationact.org">Energy Innovation and Carbon Dividend Act</a>, or at least holding back from supporting the regressive SALT deduction so strongly, but she’s a reliable advocate of liberal issues in DC.</p>
-</div>
-</div>
-<div class="section" id="california-office">
-<h2>California office<a class="headerlink" href="#california-office" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="steve-bennett-for-california-s-38th-assembly-district">
-<h3>STEVE BENNETT for California’s 38th Assembly District<a class="headerlink" href="#steve-bennett-for-california-s-38th-assembly-district" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="california-office">
+<h2>California office<a class="headerlink" href="#california-office" title="Permalink to this headline">#</a></h2>
+<section id="steve-bennett-for-california-s-38th-assembly-district">
+<h3>STEVE BENNETT for California’s 38th Assembly District<a class="headerlink" href="#steve-bennett-for-california-s-38th-assembly-district" title="Permalink to this headline">#</a></h3>
 <p>Assemblymember Steve Bennett is the only Democrat in the race.
 The incumbent faces Republican Cole Brocato and Daniel Wilson, who isn’t running with a party affiliation, but whose stances align with the Democratic Socialists of America.
 Both Bennett and Wilson strongly urged Congress to enact a national carbon fee-and-dividend policy in the <a class="reference external" href="https://datastudio.google.com/u/0/reporting/be521693-9b01-41ad-ab11-6e8c538aff0f/page/1knwB?params=%7B%22df4%22:%22include%25EE%2580%25800%25EE%2580%2580IN%25EE%2580%2580California%2520Assembly%2520District%252038%22%7D">Citizens’ Climate Lobby questionnaire</a> (Brocato didn’t respond).
 Assemblymember Bennett is an inconsistent supporter of housing—he abstained from SB9 and SB10 last year, but voted yes for AB1401–and in the <a class="reference external" href="https://youtu.be/XtjTYaWkMdM">candidate forum</a> he minimized the need for more market-rate housing, but the others weren’t any better.
 Bennett is more knowledgeable and experienced, and less socialist, than Wilson.
 Re-elect him.</p>
-</div>
-</div>
-<div class="section" id="ventura-county-office">
-<h2>Ventura County office<a class="headerlink" href="#ventura-county-office" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="tbd-for-county-superintendent-of-schools">
-<h3>TBD for County Superintendent of Schools<a class="headerlink" href="#tbd-for-county-superintendent-of-schools" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="ventura-county-office">
+<h2>Ventura County office<a class="headerlink" href="#ventura-county-office" title="Permalink to this headline">#</a></h2>
+<section id="tbd-for-county-superintendent-of-schools">
+<h3>TBD for County Superintendent of Schools<a class="headerlink" href="#tbd-for-county-superintendent-of-schools" title="Permalink to this headline">#</a></h3>
 <p>Cesar Morales, the appointed incumbent, is the only candidate.
 I will decide whether to cast the superfluous vote after reviewing his record.</p>
-</div>
-<div class="section" id="keith-taylor-for-assessor">
-<h3>KEITH TAYLOR for Assessor<a class="headerlink" href="#keith-taylor-for-assessor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="keith-taylor-for-assessor">
+<h3>KEITH TAYLOR for Assessor<a class="headerlink" href="#keith-taylor-for-assessor" title="Permalink to this headline">#</a></h3>
 <p>Chief Deputy Assessor of Ventura County <a class="reference external" href="https://www.taylorforassessor.com/">Keith Taylor</a> is running against…appraiser (?) <a class="reference external" href="https://www.bradleycoburn.com/">Bradley Coburn</a>.
 Their campaign websites show that Taylor is the serious, experienced, endorsed candidate, while Coburn just wants to cut property taxes.
 (As a non-policymaking role, I would favor making this an appointed rather than elected position.)</p>
-</div>
-<div class="section" id="tbd-for-auditor-controller">
-<h3>TBD for Auditor-Controller<a class="headerlink" href="#tbd-for-auditor-controller" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="tbd-for-auditor-controller">
+<h3>TBD for Auditor-Controller<a class="headerlink" href="#tbd-for-auditor-controller" title="Permalink to this headline">#</a></h3>
 <p>Incumbent Jeffery Burgh is the only candidate.
 I will decide whether to cast the superfluous vote after reviewing his record.</p>
-</div>
-<div class="section" id="michelle-ascencion-for-county-clerk-and-recorder">
-<h3>MICHELLE ASCENCION for County Clerk and Recorder<a class="headerlink" href="#michelle-ascencion-for-county-clerk-and-recorder" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="michelle-ascencion-for-county-clerk-and-recorder">
+<h3>MICHELLE ASCENCION for County Clerk and Recorder<a class="headerlink" href="#michelle-ascencion-for-county-clerk-and-recorder" title="Permalink to this headline">#</a></h3>
 <p>Michelle Ascension is the current Assistant County Clerk-Recorder and former City Clerk for Oxnard, and has the endorsement of the current Clerk-Recorder and most elected officials in the county.
 The <a class="reference external" href="https://www.youtube.com/watch?v=RVcvc1j7YSA">candidate forum</a> revealed that Ascension is the only candidate with relevant experience and knowledge to execute the duties of the office.
 Jeff Hargleroad is a former show biz exec, and Bruce Boyer didn’t join the forum.</p>
@@ -487,29 +563,29 @@ Jeff Hargleroad is a former show biz exec, and Bruce Boyer didn’t join the for
 <li><p>If it is an elected office, voters should elect the most qualified candidate, as an elected body would ideally do when they appoint someone</p></li>
 </ol>
 <p>Do what we should ask the Board of Supervisors or County CEO to do: put the person with the background to execute policy, Michelle Ascencion.</p>
-</div>
-<div class="section" id="erik-nasarenko-for-district-attorney">
-<h3>ERIK NASARENKO for District Attorney<a class="headerlink" href="#erik-nasarenko-for-district-attorney" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="erik-nasarenko-for-district-attorney">
+<h3>ERIK NASARENKO for District Attorney<a class="headerlink" href="#erik-nasarenko-for-district-attorney" title="Permalink to this headline">#</a></h3>
 <p>The Board of Supervisors unanimously appointed Erik Nasarenko as District Attorney, after experience on the Ventura City Council.
 His <a class="reference external" href="https://eriknasarenko.com/erik-on-the-issues/">website</a> indicates more thoughtfulness and compassion than that of his opponent, <a class="reference external" href="https://barrick4da.com/">John Barrick</a>.
 Vote for a progressive DA, Erik Nasarenko.</p>
-</div>
-<div class="section" id="bill-ayub-for-sheriff">
-<h3>BILL AYUB for Sheriff<a class="headerlink" href="#bill-ayub-for-sheriff" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="bill-ayub-for-sheriff">
+<h3>BILL AYUB for Sheriff<a class="headerlink" href="#bill-ayub-for-sheriff" title="Permalink to this headline">#</a></h3>
 <p>Bill Ayub is the incumbent, and his second-in-command, Jim Fryhoff, is running against him.
 I watched their debate and read their websites, which suggested the main policy difference has to do with a pension reform Ayub was pushing, against the wishes of the deputy sheriff’s union.
 The union apparently then recruited and endorsed Fryhoff, along with a bunch of other law enforcement unions.
 Don’t let cop unions bully the public into paying for broken pension contracts.
 Vote for Ayub.</p>
-</div>
-<div class="section" id="sue-horgan-for-treasurer-tax-collector">
-<h3>SUE HORGAN for Treasurer-Tax Collector<a class="headerlink" href="#sue-horgan-for-treasurer-tax-collector" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="sue-horgan-for-treasurer-tax-collector">
+<h3>SUE HORGAN for Treasurer-Tax Collector<a class="headerlink" href="#sue-horgan-for-treasurer-tax-collector" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.ventura.org/ttc/organization-assist-treasuretax-collector/">Sue Horgan has been Assistant Treasurer-Tax Collector since 2017.</a>
 She is running against Ron Speakman, a CPA with no campaign website or online information.
 This should be an appointed position.</p>
-</div>
-<div class="section" id="no-on-measure-a">
-<h3>NO on Measure A<a class="headerlink" href="#no-on-measure-a" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-measure-a">
+<h3>NO on Measure A<a class="headerlink" href="#no-on-measure-a" title="Permalink to this headline">#</a></h3>
 <p>When Ventura County started permitting oil wells in 1948, the oil company would go through an upfront process and then be able to drill more in that well by paying a fee.
 In 1977, the county added discretionary reviews for new permits via the California Environmental Quality Act (CEQA)and the National Environmental Protection Act (NEPA).
 Measures A and B apply the new discretionary review system to wells permitted before 1977, for coastal and non-coastal zones, respectively.
@@ -535,13 +611,13 @@ But I hold that view only weakly, and I could be persuaded that we shouldn’t a
 Measures A and B increase dependence on discretionary processes, which are great for consultants and corrupt politicians, but threaten the rest of our democratic system.
 Environmentalists should identify opportunities to make the world a safer place with better rules, rather than giving more power to officials to arbitrarily approve or deny their constituents’ activities.</p>
 <p>Vote for rule of law; vote no on A and B.</p>
-</div>
-<div class="section" id="no-on-measure-b">
-<h3>NO on Measure B<a class="headerlink" href="#no-on-measure-b" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-measure-b">
+<h3>NO on Measure B<a class="headerlink" href="#no-on-measure-b" title="Permalink to this headline">#</a></h3>
 <p>See above.</p>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -565,9 +641,11 @@ Environmentalists should identify opportunities to make the world a safer place 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="california.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -583,24 +661,28 @@ Environmentalists should identify opportunities to make the world a safer place 
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Max Ghenis<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Max Ghenis<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

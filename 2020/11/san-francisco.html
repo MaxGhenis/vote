@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>San Francisco &#8212; Max Ghenis&#39;s voter guide</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet">
-  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="../../_static/doctools.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="../../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="../../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -71,7 +70,21 @@ const thebe_selector_output = ".output, .cell_output"
                     </script>
 
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -80,9 +93,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -100,14 +114,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../index.html">
-   Voter guide
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../index.html">
+                    Voter guide
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   June 2022
  </span>
@@ -184,12 +199,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -197,61 +217,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../../_sources/2020/11/san-francisco.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../../_sources/2020/11/san-francisco.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#elected-offices">
    Elected offices
@@ -398,12 +474,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>San Francisco</h1>
@@ -566,11 +641,12 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="san-francisco">
-<h1>San Francisco<a class="headerlink" href="#san-francisco" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="san-francisco">
+<h1>San Francisco<a class="headerlink" href="#san-francisco" title="Permalink to this headline">#</a></h1>
 <p>I lived in San Francisco from 2016 to 2019, and still follow its politics.
 See also these voter guides (I don’t fully agree with them, but they are well-researched):</p>
 <ul class="simple">
@@ -578,10 +654,10 @@ See also these voter guides (I don’t fully agree with them, but they are well-
 <li><p><a class="reference external" href="http://spur.org/voter-guide/san-francisco-2020-11">SPUR</a></p></li>
 <li><p><a class="reference external" href="https://techworkers.vote/">Tech Worker Voter Guide</a> (which also describes why each measure is on the ballot)</p></li>
 </ul>
-<div class="section" id="elected-offices">
-<h2>Elected offices<a class="headerlink" href="#elected-offices" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="scott-wiener-for-senate-district-11">
-<h3>Scott Wiener for Senate District 11<a class="headerlink" href="#scott-wiener-for-senate-district-11" title="Permalink to this headline">¶</a></h3>
+<section id="elected-offices">
+<h2>Elected offices<a class="headerlink" href="#elected-offices" title="Permalink to this headline">#</a></h2>
+<section id="scott-wiener-for-senate-district-11">
+<h3>Scott Wiener for Senate District 11<a class="headerlink" href="#scott-wiener-for-senate-district-11" title="Permalink to this headline">#</a></h3>
 <p>I’m proud to have voted for Scott Wiener in my first San Francisco election in 2016.
 As a result of his narrow win, the debate around housing policy has changed around the world;
 I don’t think it’s an exaggeration to say he’s had a greater impact on this policy area than anyone else in the country.</p>
@@ -606,9 +682,9 @@ This is both wildly unrealistic—California’s General Fund is only <a class="
 Apartment legalization would help either way, but because it allows some of those apartments be market-rate (the kind of homes the vast majority of Californians live in), she’ll side with wealthy NIMBYs, conservatives, and <a class="reference external" href="https://www.capradio.org/articles/2020/08/17/politifact-california-trump-claims-california-lawmaker-pushed-to-abolish-single-family-zoning-is-he-right/">Donald Trump</a> in opposing it.</p>
 <p>However Fielder describes herself, the result of her policy preferences would be higher housing costs, more carbon emissions, and more poverty.
 Between her and the most effective, progressive pro-housing legislator in the country, the choice is clear.</p>
-</div>
-<div class="section" id="david-chiu-for-assembly-district-17">
-<h3>David Chiu for Assembly District 17<a class="headerlink" href="#david-chiu-for-assembly-district-17" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="david-chiu-for-assembly-district-17">
+<h3>David Chiu for Assembly District 17<a class="headerlink" href="#david-chiu-for-assembly-district-17" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://votedavidchiu.com">Chiu</a> is a major ally to YIMBYs, both in substance, for example authoring <a class="reference external" href="https://a17.asmdc.org/press-releases/bill-increase-transit-oriented-development-bart-stations-signed-governor">AB 2923</a> which allows BART to build more housing on its land, and sentiment, having spoken at many YIMBY events.
 He is a reliable vote for pro-housing legislation, such as SB 50 and SB 330.
 The anti-housing views of his <a class="reference external" href="https://sanfrancisco.cbslocal.com/2015/10/27/sf-supervisor-campos-rallies-for-development-moratorium-in-mission-district/">opponent</a> in the close 2014 race that brought Chiu to the assembly, demonstrates his “value above replacement” to AD-17.</p>
@@ -616,17 +692,17 @@ The anti-housing views of his <a class="reference external" href="https://sanfra
 <p>His record isn’t perfect, as he’s also been the chief advocate of rent control—which benefits incumbents at the cost of newcomers—in Sacramento, authoring AB 1482, signed in 2019.
 He’s also authored AB 857, which enables cities to create “public banks,” a performative institution that advocates falsely claim will enable them to essentially print money for government projects, avoiding real solutions like taxes and permitting the market to deliver critical services like housing.</p>
 <p>Chiu’s opponent, <a class="reference external" href="http://starchild.forliberty.org/">Starchild</a> received <a class="reference external" href="https://ballotpedia.org/David_Chiu_(California)">56 write-in votes</a> in the primary, and while he has progressive values on zoning, sex work, and immigration, he has no public policy experience and advocates counterproductive policies like abolishing the police and reducing lawmaker compensation.</p>
-</div>
-<div class="section" id="phil-ting-for-assembly-district-19">
-<h3>Phil Ting for Assembly District 19<a class="headerlink" href="#phil-ting-for-assembly-district-19" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="phil-ting-for-assembly-district-19">
+<h3>Phil Ting for Assembly District 19<a class="headerlink" href="#phil-ting-for-assembly-district-19" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.philting.com/">Ting</a> focuses less on housing than his peers Chiu and Wiener, but he still votes reliably for pro-housing legislation.
 As chair of the Assembly Budget committee, he has notably promoted the <a class="reference external" href="https://a19.asmdc.org/californias-earned-income-tax-credit">expansion of CalEITC</a>, a cash transfer to low-income Californians.
 CalEITC <a class="reference external" href="https://calbudgetcenter.org/resources/expanding-the-caleitc-a-smart-investment-to-broaden-economic-security-in-california/">effectively reduces poverty</a> in California and is a step toward basic income.</p>
 <p>His opponent, <a class="reference external" href="http://johnmcdonnellforassembly.com/">John McDonnell</a>, is a Republican who demonizes people experiencing homelessness and the gas tax, and advocates protecting Prop 13’s inequitable property tax system.
 While I agree with him on some views like equal protection, allowing gig work, and supporting charter schools, a vote for any Republican is, today and for years to come, a vote for Trumpism and the GOP, which have failed our country and our state.</p>
-</div>
-<div class="section" id="marjan-philhour-1-veronica-shinzato-2-for-district-1-supervisor">
-<h3>Marjan Philhour #1, Veronica Shinzato #2 for District 1 Supervisor<a class="headerlink" href="#marjan-philhour-1-veronica-shinzato-2-for-district-1-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="marjan-philhour-1-veronica-shinzato-2-for-district-1-supervisor">
+<h3>Marjan Philhour #1, Veronica Shinzato #2 for District 1 Supervisor<a class="headerlink" href="#marjan-philhour-1-veronica-shinzato-2-for-district-1-supervisor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.votemarjan.com/">Philhour’s</a> website’s housing section is unambiguous:</p>
 <blockquote>
 <div><p>Marjan supports building housing of all types, including 100% affordable, in-law units, and new apartment buildings.</p>
@@ -641,9 +717,9 @@ if apartments are illegal, even public monies can’t produce below-market-rate 
 <a class="reference external" href="https://www.votedavidlee2020.com/priorities">David Lee’s call</a> to “stand up to real estate interests” really means “stand up to newcomers seeking to live in District 1.”
 His Trumpian “Richmond First” slogan really means, “only people who currently live in the Richmond matter.”</p>
 <p>Philhour and Shinzato are the pro-housing, pro-inclusivity candidates in the race.</p>
-</div>
-<div class="section" id="danny-sauter-for-district-3-supervisor">
-<h3>Danny Sauter for District 3 Supervisor<a class="headerlink" href="#danny-sauter-for-district-3-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="danny-sauter-for-district-3-supervisor">
+<h3>Danny Sauter for District 3 Supervisor<a class="headerlink" href="#danny-sauter-for-district-3-supervisor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.dannyd3.com/">Sauter</a> seeks to provide District 3 with new leadership.
 It is desperately needed.</p>
 <p>Incumbent Aaron Peskin has, since being first elected in 2000, authored and supported <a class="reference external" href="https://en.wikipedia.org/wiki/Aaron_Peskin#Housing_and_development">legislation</a> that has plunged San Francisco into its housing crisis.
@@ -663,9 +739,9 @@ On <a class="reference external" href="https://www.dannyd3.com/housing">housing<
 “prioritize transit-oriented development,” and, for the first time in almost two decades, “set a goal and strategy for District 3 housing.”
 On <a class="reference external" href="https://www.dannyd3.com/transit">transportation</a>, he wants to make it safer for pedestrians and bicyclists to get around, and improve transit.
 He’s the respectful, thoughtful, policy-oriented leader District 3 deserves.</p>
-</div>
-<div class="section" id="vallie-brown-for-district-5-supervisor">
-<h3>Vallie Brown for District 5 Supervisor<a class="headerlink" href="#vallie-brown-for-district-5-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="vallie-brown-for-district-5-supervisor">
+<h3>Vallie Brown for District 5 Supervisor<a class="headerlink" href="#vallie-brown-for-district-5-supervisor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.votevallie.com/">Brown</a> gets it on housing. She <a class="reference external" href="https://www.votevallie.com/recovery">promises to</a>:</p>
 <blockquote>
 <div><p>Zone our neighborhoods for affordability with higher levels of density to meet the public demand for more housing and more 100% affordable housing. This must include removing the restrictions that have been designed to keep low-income renters out.</p>
@@ -680,9 +756,9 @@ Her opponent, current supervisor Dean Preston, <a class="reference external" hre
 Preston tried to block the project by <a class="reference external" href="https://www.sfchronicle.com/bayarea/article/186-apartments-to-replace-Touchless-car-wash-on-13992038.php">raising below-market requirements</a>.</p>
 <p>Preston would prefer a parcel remain empty than for people be able to live in non-100-percent-subsidized apartments there.
 Brown recognizes that 100 percent of zero is zero, and that people can only live in homes, not percentages.</p>
-</div>
-<div class="section" id="myrna-melgar-for-district-7-supervisor">
-<h3>Myrna Melgar for District 7 Supervisor<a class="headerlink" href="#myrna-melgar-for-district-7-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="myrna-melgar-for-district-7-supervisor">
+<h3>Myrna Melgar for District 7 Supervisor<a class="headerlink" href="#myrna-melgar-for-district-7-supervisor" title="Permalink to this headline">#</a></h3>
 <p>Melgar, a current planning commissioner, <a class="reference external" href="https://www.myrnamelgar.com/housing">wants to</a> “build more housing at every income level” and “encourage accessory dwelling units.”
 She is alone in the field in this view.</p>
 <p>Opponent <a class="reference external" href="https://www.engardio.com/housing">Joel Engardio</a>, for example, “opposes attempts to eliminate or rezone single-family neighborhoods.”</p>
@@ -693,23 +769,23 @@ She is alone in the field in this view.</p>
 (Read: He will continue banning apartments.)</p>
 <p>Legalizing apartments—any apartments—in the low-density District 7 should be a low bar in our progressive moment.
 Instead, all candidatesare siding with Donald Trump in preserving apartment bans—all candidates except Myrna Melgar.</p>
-</div>
-<div class="section" id="blank-for-district-9-supervisor">
-<h3>Blank for District 9 Supervisor<a class="headerlink" href="#blank-for-district-9-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="blank-for-district-9-supervisor">
+<h3>Blank for District 9 Supervisor<a class="headerlink" href="#blank-for-district-9-supervisor" title="Permalink to this headline">#</a></h3>
 <p>Incumbent Hillary Ronen is running unopposed.
 She has consistently opposed housing, <a class="reference external" href="https://missionlocal.org/2019/02/how-to-not-build-in-san-francisco-maximus-and-the-so-called-monster-in-the-mission/?unapproved=664873&amp;moderation-hash=3e884ef764ee4a50f17b6fe35c97ff23#comment-664873">in her</a> <a class="reference external" href="https://missionlocal.org/2019/02/how-the-developer-of-sfs-historic-laundromat-quietly-won/">district</a> and <a class="reference external" href="https://sf.curbed.com/2019/3/26/18281546/sf-mar-wiener-sb-50-resolution-letter-transit-housing-density">across California</a>.
 She doesn’t deserve a token vote.</p>
-</div>
-<div class="section" id="ahsha-safai-for-district-11-supervisor">
-<h3>Ahsha Safai for District 11 Supervisor<a class="headerlink" href="#ahsha-safai-for-district-11-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="ahsha-safai-for-district-11-supervisor">
+<h3>Ahsha Safai for District 11 Supervisor<a class="headerlink" href="#ahsha-safai-for-district-11-supervisor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.ahshaforsupervisor.com">Safai</a> approved housing in his district and was one of only two supervisors to vote against the anti-SB50 resolution.</p>
 <p>His opponent, former supervisor <a class="reference external" href="https://avalos2020.com/issues/housing-affordability-16">John Avalos</a>, is more of the same that has gotten San Francisco into its crisis, saying:</p>
 <blockquote>
 <div><p>Top-down policies that push luxury development into our neighborhoods without concern for affordability and community stability will not solve our housing crisis.</p>
 </div></blockquote>
-</div>
-<div class="section" id="michelle-parker-for-board-of-education">
-<h3>Michelle Parker for Board of Education<a class="headerlink" href="#michelle-parker-for-board-of-education" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="michelle-parker-for-board-of-education">
+<h3>Michelle Parker for Board of Education<a class="headerlink" href="#michelle-parker-for-board-of-education" title="Permalink to this headline">#</a></h3>
 <p>Parker is one of several candidates running against incumbents Jenny Lam and Mark Sanchez for re-election.
 Lam and Sanchez are mismanaging the Covid-19 crisis, dedicating resources to <a class="reference external" href="https://abc7news.com/san-francisco-schools-renamed-sfusd-third-sf-renaming-committee-slavery/7085284/">school renamings</a> instead of bringing kids back.</p>
 <p>In <a class="reference external" href="https://maxghenis.medium.com/phil-kim-and-john-trasvi%C3%B1a-for-san-francisco-board-of-education-357b3a628f34">November 2018</a>, I did not vote for Parker, given her opposition to charter schools and proposal to reserve housing for teachers.
@@ -719,28 +795,28 @@ I still oppose those stances, and I couldn’t find evidence that she’s change
 <div><p>Lotteries for low and middle income housing, as well as down payment assistance programs, should also provide priority or tie breaker options for young San Franciscans whose families have been in San Francisco for at least a generation.</p>
 </div></blockquote>
 <p>Parker would be better than the incumbents and the competition.</p>
-</div>
-<div class="section" id="victor-olivieri-and-jeanette-quick-for-community-college-board">
-<h3>Victor Olivieri and Jeanette Quick for Community College Board<a class="headerlink" href="#victor-olivieri-and-jeanette-quick-for-community-college-board" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="victor-olivieri-and-jeanette-quick-for-community-college-board">
+<h3>Victor Olivieri and Jeanette Quick for Community College Board<a class="headerlink" href="#victor-olivieri-and-jeanette-quick-for-community-college-board" title="Permalink to this headline">#</a></h3>
 <p>Olivieri and Quick are among the candidates running against incumbents Tom Temprano and Shanell Williams.
 They support housing on land controlled by the board, with Olivieri having been <a class="reference external" href="https://yimbyaction.org/yimby-urbanist-voter-guide-2018/">previously endorsed</a> by YIMBY (they didn’t endorse for school or college board this cycle).
 I voted for Olivieri when he ran in 2018—<a class="reference external" href="https://maxghenis.medium.com/victor-olivieri-and-thea-selby-for-san-francisco-city-college-board-91523b467c43">here’s why</a>.</p>
 <p>Williams <a class="reference external" href="https://www.inglesidelight.com/1100-unit-balboa-reservoir-development-project-clears-two-supervisor-committees/">sought to delay</a> approval of a housing development at Balboa Reservoir, of which the board has control.
 Temprano has been <a class="reference external" href="https://www.sfexaminer.com/news/ccsf-board-disagrees-over-future-of-balboa-reservoir-development/">more supportive</a> of the project, but has not committed to maximizing total housing units at the site.</p>
-</div>
-<div class="section" id="lateefah-simon-for-bart-board-of-directors-district-7">
-<h3>Lateefah Simon for BART Board of Directors District 7<a class="headerlink" href="#lateefah-simon-for-bart-board-of-directors-district-7" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="lateefah-simon-for-bart-board-of-directors-district-7">
+<h3>Lateefah Simon for BART Board of Directors District 7<a class="headerlink" href="#lateefah-simon-for-bart-board-of-directors-district-7" title="Permalink to this headline">#</a></h3>
 <p>Simon, the incumbent, <a class="reference external" href="https://yimbyaction.org/endorsements/san-francisco/">supports</a> building housing at all affordability levels on BART land.</p>
-</div>
-<div class="section" id="bevan-dufty-for-bart-board-of-directors-district-9">
-<h3>Bevan Dufty for BART Board of Directors District 9<a class="headerlink" href="#bevan-dufty-for-bart-board-of-directors-district-9" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="bevan-dufty-for-bart-board-of-directors-district-9">
+<h3>Bevan Dufty for BART Board of Directors District 9<a class="headerlink" href="#bevan-dufty-for-bart-board-of-directors-district-9" title="Permalink to this headline">#</a></h3>
 <p>According to <a class="reference external" href="https://yimbyaction.org/endorsements/san-francisco/#bart-board">SF YIMBY’s endorsement</a>, Dufty, the incumbent, “has supported all transit-oriented development projects on BART property that have come up to the board” and voted for a pro-SB50 resolution.</p>
-</div>
-</div>
-<div class="section" id="ballot-measures">
-<h2>Ballot measures<a class="headerlink" href="#ballot-measures" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="yes-on-prop-a">
-<h3>Yes on Prop A<a class="headerlink" href="#yes-on-prop-a" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="ballot-measures">
+<h2>Ballot measures<a class="headerlink" href="#ballot-measures" title="Permalink to this headline">#</a></h2>
+<section id="yes-on-prop-a">
+<h3>Yes on Prop A<a class="headerlink" href="#yes-on-prop-a" title="Permalink to this headline">#</a></h3>
 <p>Prop A is a bond for homelessness, parks, street and sidewalk safety.</p>
 <p>Local bonds are a great way to fund priorities since they can raise property taxes beyond the far-too-law rate of one percent dictated by 1978 Prop 13.
 Because property values in San Francisco are primarily land values, property taxes function nearly as land value taxes, which are one of the most efficient forms of taxation.
@@ -751,38 +827,38 @@ if nothing else, SF could give homeless people money, as an organization in Cana
 San Francisco is sorely lacking in parks, and street and sidewalk safety have much room for improvement.
 Prop A funds important programs with an efficient tax.
 Vote yes.</p>
-</div>
-<div class="section" id="no-on-prop-b">
-<h3>No on Prop B<a class="headerlink" href="#no-on-prop-b" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-prop-b">
+<h3>No on Prop B<a class="headerlink" href="#no-on-prop-b" title="Permalink to this headline">#</a></h3>
 <p>Prop B aims to address <a class="reference external" href="https://www.kqed.org/news/11821145/months-after-sf-public-works-boss-nurus-arrest-staff-push-for-corruption-cleanup">corruption in the Department of Public Works</a> by creating a new Department of Sanitation and Streets, moves DPW oversight from the City Administrator to a new Public Works Commission, and requires new annual audits and analysis.</p>
 <p>As <a class="reference external" href="https://www.techworkers.vote/elections/2020-november/san-francisco/propositions/#prop-a">techworkers.vote said</a>, “this is performative accountability.”
 Commissions don’t have actual power, and moving people to a new department—to the tune of at least $2.5 million annually—doesn’t change any incentives.</p>
-</div>
-<div class="section" id="yes-on-prop-c">
-<h3>Yes on Prop C<a class="headerlink" href="#yes-on-prop-c" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-c">
+<h3>Yes on Prop C<a class="headerlink" href="#yes-on-prop-c" title="Permalink to this headline">#</a></h3>
 <p>Prop C allows non-citizens to serve on city boards, commissions, and advisory bodies.
 Citizenship status is an irrelevant factor in ability to contribute to these local government functions.</p>
-</div>
-<div class="section" id="yes-on-prop-d">
-<h3>Yes on Prop D<a class="headerlink" href="#yes-on-prop-d" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-d">
+<h3>Yes on Prop D<a class="headerlink" href="#yes-on-prop-d" title="Permalink to this headline">#</a></h3>
 <p>Prop D has similar governance aims to Prop B, with respect to the sheriff’s department rather than DPW.
 But unlike Prop B, it creates real investigatory powers, addressing an institution in dire need of greater oversight nationwide.</p>
-</div>
-<div class="section" id="yes-on-prop-e">
-<h3>Yes on Prop E<a class="headerlink" href="#yes-on-prop-e" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-e">
+<h3>Yes on Prop E<a class="headerlink" href="#yes-on-prop-e" title="Permalink to this headline">#</a></h3>
 <p>Prop E removes a minimum police staffing target set in a 1994 ballot measure.
 The city has never met the target.
 Elected officials and public safety experts
 should be in charge of staffing, unconstrained from non-binding ballot measures that should have never been enacted.</p>
-</div>
-<div class="section" id="no-on-prop-f">
-<h3>No on Prop F<a class="headerlink" href="#no-on-prop-f" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-prop-f">
+<h3>No on Prop F<a class="headerlink" href="#no-on-prop-f" title="Permalink to this headline">#</a></h3>
 <p>Prop F repeals the city’s payroll tax, and replaces the lost revenue with increasing rates on its current gross receipts tax.
 It also reduces business registration fees and gross receipts taxes for small businesses.
 Finally, Prop F contains elements pertaining to prior ballot measures, which a <a class="reference external" href="https://missionlocal.org/2020/09/prop-c-supreme-court/">court decision</a> has made irrelevant.</p>
 <p>A <a class="reference external" href="https://sfcontroller.org/sites/default/files/Documents/Economic%20Analysis/200648_economic%20impact_final.pdf">report</a> from the Controller’s office, which considers Covid-19, found that Prop F would have modest revenue effects over the next couple years, followed by steady revenue increases of about $100 million per year beginning in 2024.<a class="footnote-reference brackets" href="#prop-f-revenue" id="id1">1</a></p>
 <table class="table" id="id4">
-<caption><span class="caption-number">Table 1 </span><span class="caption-text">Net tax revenue generated by Prop F ($ millions)</span><a class="headerlink" href="#id4" title="Permalink to this table">¶</a></caption>
+<caption><span class="caption-number">Table 1 </span><span class="caption-text">Net tax revenue generated by Prop F ($ millions)</span><a class="headerlink" href="#id4" title="Permalink to this table">#</a></caption>
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 20%" />
@@ -839,9 +915,9 @@ They could enact a VAT, which enables other developed countries to fund their ge
 They could offset potential distributional drawbacks (which haven’t been identified or quantified) with transfers to low-income San Franciscans.</p>
 <p>Prop F barely raises any new revenue before the 2022 election, and after that it grows the General Fund by about 1.5 percent.<a class="footnote-reference brackets" href="#sf-general-fund" id="id2">2</a>
 Rejecting this flawed proposal now creates an opportunity for leaders to bring the voters something better thought through in the future, without cementing a terrible fiscal precedent.</p>
-</div>
-<div class="section" id="yes-on-prop-g">
-<span id="nov2020-sf-propg"></span><h3>Yes on Prop G<a class="headerlink" href="#yes-on-prop-g" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-g">
+<span id="nov2020-sf-propg"></span><h3>Yes on Prop G<a class="headerlink" href="#yes-on-prop-g" title="Permalink to this headline">#</a></h3>
 <p>Prop G allows 16- and 17-year-olds to vote in local elections.
 A <a class="reference external" href="https://www.nytimes.com/2020/10/08/upshot/youth-voting-2020-election.html">New York Times investigation</a> (written by my grad school colleague Alexandria Symonds) attributed low youth turnout—15 percentage points below overall turnout in 2016—to habit formation, opportunity cost, and alternative participation.
 Allowing young people to vote plausibly addresses each blocker:</p>
@@ -861,18 +937,18 @@ The chance to cast a real vote may increase the chances of this kind of pre-regi
 What better civics education than a senior class field trip to a polling location for a local election?</p></li>
 </ul>
 <p>By raising youth—and thus lifelong—voter turnout, Prop G strengthens the bedrock of our democracy.</p>
-</div>
-<div class="section" id="yes-on-prop-h">
-<h3>Yes on Prop H<a class="headerlink" href="#yes-on-prop-h" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-h">
+<h3>Yes on Prop H<a class="headerlink" href="#yes-on-prop-h" title="Permalink to this headline">#</a></h3>
 <p>Prop H removes a number of unnecessary and counterproductive roadblocks to starting and operating a business.
 For example, it streamlines the process for public engagement, which has added months to activities as minor as <a class="reference external" href="https://www.sfchronicle.com/bayarea/heatherknight/article/Bid-to-open-S-F-ice-cream-shop-turns-into-a-15614815.php">opening an ice cream shop</a>.
 It also legalizes the cafe/workspace model in certain districts, allows restaurant service in parklets (as the city has temporarily allowed for public health reasons), and makes other changes to help businesses commence and modify their activities without permission from City Hall and neighbors.</p>
 <p>Ideally, this would be passed as legislation, but the Board of Supervisors has <a class="reference external" href="https://www.sfchronicle.com/bayarea/article/S-F-small-businesses-are-struggling-Here-s-15626450.php">failed to act</a>, so Mayor Breed brought the choice to voters.</p>
 <p>As San Francisco recovers from Covid-19’s economic collapse, its failed limitations will become a bigger drag than they’ve already been.
 Prop H fixes issues that have long plagued the city, at a time when it especially needs them to be fixed.</p>
-</div>
-<div class="section" id="no-on-prop-i">
-<h3>No on Prop I<a class="headerlink" href="#no-on-prop-i" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-prop-i">
+<h3>No on Prop I<a class="headerlink" href="#no-on-prop-i" title="Permalink to this headline">#</a></h3>
 <p>Prop I doubles taxes on sales of properties valued at $10 million or more, with revenues compensating landlords who waive rent payments due to Covid-19 and funding public housing projects.
 This has been sold as a tax on “mansions,” but in reality, its targets are new apartment buildings and large commercial buildings, which are transferred from the developer to property managers.
 The city economist projects <a class="reference external" href="https://sfcontroller.org/sites/default/files/Documents/Economic%20Analysis/200654_economic%20impact_final.pdf">major negative impacts</a> due to discouraging construction:</p>
@@ -895,16 +971,16 @@ It also fails to target people in need, targeting instead those who know new law
 Public housing is allocated by lottery, forcing low-income people into whichever home they happen to be selected for, rather than empowering them to choose where to live.
 San Francisco also has programs to help low-income people in more direct and freeing ways, such as the Working Families Credit.</p>
 <p>Prop I is a misleading measure that discourages density, harms the economy, and directs resources to flawed programs.</p>
-</div>
-<div class="section" id="yes-on-prop-j">
-<h3>Yes on Prop J<a class="headerlink" href="#yes-on-prop-j" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-prop-j">
+<h3>Yes on Prop J<a class="headerlink" href="#yes-on-prop-j" title="Permalink to this headline">#</a></h3>
 <p>Prop J replaces a 2018 parcel tax currently facing legal battles with a new one that would fund schools.
 Parcel taxes are great because land in San Francisco has appreciated so rapidly, making landowners generally quite wealthy.
 Normally, that kind of public wealth could be captured by property taxes—or better yet, <a class="reference external" href="https://en.wikipedia.org/wiki/Land_value_tax">land values taxes</a>—but since Prop 13 limits that, parcel taxes approximate it while also taxing multifamily housing less than single-family homes (since each building, rather than unit, is treated as a single parcel).
 Funding schools, which need resources to educate kids in new Covid-19 circumstances, is a worthy use.</p>
-</div>
-<div class="section" id="no-on-prop-k">
-<h3>No on Prop K<a class="headerlink" href="#no-on-prop-k" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-prop-k">
+<h3>No on Prop K<a class="headerlink" href="#no-on-prop-k" title="Permalink to this headline">#</a></h3>
 <p>Prop K allows the city to build public housing.</p>
 <p>Public housing is one of the worst ways to spend public funds.
 Since it is always oversubscribed, it’s allocated by lottery, leaving people on waitlists for years or decades.
@@ -916,9 +992,9 @@ For the cost of four units, it could reopen its <a class="reference external" hr
 For the $5 billion it would cost to meet author Dean Preston’s goal of 10,000 public housing units, it could become the first jurisdiction in the continental US to offer a child allowance, giving $300 per month for each child in the city for more than a decade.
 These broad-based transfers don’t rely on lotteries or waiting for approval and hodgepodges of funds, they simply reduce poverty and inequality in an empowering way.</p>
 <p>Reject Prop K to force city officials to invest government resources in more productive ways.</p>
-</div>
-<div class="section" id="no-on-prop-l">
-<h3>No on Prop L<a class="headerlink" href="#no-on-prop-l" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-prop-l">
+<h3>No on Prop L<a class="headerlink" href="#no-on-prop-l" title="Permalink to this headline">#</a></h3>
 <p>Prop L would assess additional gross receipts taxes to firms whose top-paid employee is paid at least 100 times the median San Francisco employee.
 The additional rate rises with the rate, with the top rate kicking in at a ratio of 600:1.
 For firms with only <a class="reference external" href="https://sftreasurer.org/business/taxes-fees/administrative-office-tax-aot">administrative offices</a> in San Francisco—offices defined by the treasurer as those without “sales personnel or personnel actively engaged in marketing, research and development, direct customer service, and product support services”—the new tax is assessed on payroll rather than gross receipts.</p>
@@ -929,9 +1005,9 @@ For firms with only <a class="reference external" href="https://sftreasurer.org/
 <li><p>Reduce GDP by $60 million (0.03 percent)</p></li>
 </ul>
 <p>While it’s temperamentally targeted toward tech companies, the retail trade sector would be the most disproportionately impacted, paying 23 percent of the tax while making up 7 percent of current employment.</p>
-</div>
-<div class="section" id="yes-on-measure-rr">
-<h3>Yes on Measure RR<a class="headerlink" href="#yes-on-measure-rr" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-measure-rr">
+<h3>Yes on Measure RR<a class="headerlink" href="#yes-on-measure-rr" title="Permalink to this headline">#</a></h3>
 <p>Measure RR is a sales tax to fund Caltrain.
 Without it, Caltrain risks shutdowns.
 Rail transit is critical for reducing greenhouse gas emissions and air pollution, and provides affordable transportation options for people who don’t want to incur the large expenses of vehicle ownership.
@@ -945,9 +1021,9 @@ Sales taxes avoid distortions of some of the other more convoluted taxes on the 
 <dd><p>The <a class="reference external" href="https://sfmayor.org/sites/default/files/CSF_Proposed_Budget_Book_July_2020_LR_Web_REV2.pdf">budget for San Francisco</a> is $13.7 billion in FY 2020-21, of which the General Fund comprises about half.</p>
 </dd>
 </dl>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -971,9 +1047,11 @@ Sales taxes avoid distortions of some of the other more convoluted taxes on the 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="ventura-county.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -982,24 +1060,28 @@ Sales taxes avoid distortions of some of the other more convoluted taxes on the 
         </div>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Max Ghenis<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Max Ghenis<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

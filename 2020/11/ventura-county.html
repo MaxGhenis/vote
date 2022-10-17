@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Ventura County &#8212; Max Ghenis&#39;s voter guide</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet">
-  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="../../_static/doctools.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="../../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="../../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -72,7 +71,21 @@ const thebe_selector_output = ".output, .cell_output"
                     </script>
 
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -81,9 +94,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -101,14 +115,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../index.html">
-   Voter guide
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../index.html">
+                    Voter guide
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   June 2022
  </span>
@@ -185,12 +200,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -198,61 +218,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../../_sources/2020/11/ventura-county.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../../_sources/2020/11/ventura-county.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#countywide-or-cross-city-offices">
    Countywide or cross-city offices
@@ -451,12 +527,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Ventura County</h1>
@@ -671,31 +746,32 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="ventura-county">
-<h1>Ventura County<a class="headerlink" href="#ventura-county" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="ventura-county">
+<h1>Ventura County<a class="headerlink" href="#ventura-county" title="Permalink to this headline">#</a></h1>
 <p>This includes races I’m personally voting in (in Oxnard), as well as other races I’ve researched through Ventura County YIMBY.</p>
 <p>See also <a class="reference external" href="http://vcyimby.org/endorsements">endorsements from Ventura County YIMBY</a>.
 I was involved in that endorsement process, and mirror all those endorsements here,
 including some of the language from our site and the <a class="reference external" href="https://yimbyaction.org/endorsements/ventura-county/">YIMBY Action text</a>.</p>
-<div class="section" id="countywide-or-cross-city-offices">
-<h2>Countywide or cross-city offices<a class="headerlink" href="#countywide-or-cross-city-offices" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="julia-brownley-for-ca-26-house-district">
-<h3>Julia Brownley for CA-26 House district<a class="headerlink" href="#julia-brownley-for-ca-26-house-district" title="Permalink to this headline">¶</a></h3>
+<section id="countywide-or-cross-city-offices">
+<h2>Countywide or cross-city offices<a class="headerlink" href="#countywide-or-cross-city-offices" title="Permalink to this headline">#</a></h2>
+<section id="julia-brownley-for-ca-26-house-district">
+<h3>Julia Brownley for CA-26 House district<a class="headerlink" href="#julia-brownley-for-ca-26-house-district" title="Permalink to this headline">#</a></h3>
 <p>She’s the Democrat.</p>
-</div>
-<div class="section" id="jacqui-irwin-for-assembly-district-44">
-<h3>Jacqui Irwin for Assembly District 44<a class="headerlink" href="#jacqui-irwin-for-assembly-district-44" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="jacqui-irwin-for-assembly-district-44">
+<h3>Jacqui Irwin for Assembly District 44<a class="headerlink" href="#jacqui-irwin-for-assembly-district-44" title="Permalink to this headline">#</a></h3>
 <p>She’s the Democrat.</p>
-</div>
-<div class="section" id="monique-limon-for-senate-district-19">
-<h3>Monique Limon for Senate District 19<a class="headerlink" href="#monique-limon-for-senate-district-19" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="monique-limon-for-senate-district-19">
+<h3>Monique Limon for Senate District 19<a class="headerlink" href="#monique-limon-for-senate-district-19" title="Permalink to this headline">#</a></h3>
 <p>She’s the Democrat.</p>
-</div>
-<div class="section" id="carmen-ramirez-for-district-5-supervisor">
-<h3>Carmen Ramirez for District 5 Supervisor<a class="headerlink" href="#carmen-ramirez-for-district-5-supervisor" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="carmen-ramirez-for-district-5-supervisor">
+<h3>Carmen Ramirez for District 5 Supervisor<a class="headerlink" href="#carmen-ramirez-for-district-5-supervisor" title="Permalink to this headline">#</a></h3>
 <p>Oxnard Mayor Pro Tem <a class="reference external" href="https://carmen4supervisor.com/">Carmen Ramirez</a> and
 Oxnard Mayor <a class="reference external" href="https://www.tim4supervisor.com/">Tim Flynn</a> are running for the county supervisor seat
 vacated by John Zaragoza, who’s termed out and running for Oxnard Mayor (<a class="reference internal" href="#nov2020-oxnard-mayor"><span class="std std-ref">I’m voting for him</span></a>).
@@ -709,18 +785,18 @@ Her pro-housing responses earned our endorsement:</p>
 <blockquote>
 <div><p>As Oxnard’s Mayor Pro Tem, Ramirez has consistently supported housing projects, accessory dwelling unit streamlining, and homelessness services, and has demonstrated intent to bring inclusive housing policy to the entire county. In our questionnaire, Ramirez said that farmworkers, disabled people, and seniors “are too often priced out and have to live in miserable and overcrowded conditions, which leads to the fraying of our society,” and that “we also need to support transportation options that will get people out of their cars and help to avoid the climate changes that are getting worse every day as people still drive gas powered vehicles.”</p>
 </div></blockquote>
-</div>
-<div class="section" id="joe-ramirez-for-community-college-board-area-3">
-<h3>Joe Ramirez for Community College Board Area 3<a class="headerlink" href="#joe-ramirez-for-community-college-board-area-3" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="joe-ramirez-for-community-college-board-area-3">
+<h3>Joe Ramirez for Community College Board Area 3<a class="headerlink" href="#joe-ramirez-for-community-college-board-area-3" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="http://stanmantooth.com">Stan Mantooth</a>, Ventura County Superintendent of Schools,
 <a class="reference external" href="https://nicole-wall.net/">Nicole Wall</a>, retired teacher, and
 <a class="reference external" href="https://www.ramirez4trustee3.com/">Joe Ramirez</a>, retired college administrator,
 are vying for a spot on the Community College Board.</p>
 <p>Mantooth and Ramirez are similarly qualified, with leadership and administrative experience in educational institutions, while Wall’s campaign emphasizes social justice.
 But Ramirez’s website includes more policy specifics, such as preparing more people to work in healthcare.</p>
-</div>
-<div class="section" id="yes-on-measure-o">
-<h3>Yes on Measure O<a class="headerlink" href="#yes-on-measure-o" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-measure-o">
+<h3>Yes on Measure O<a class="headerlink" href="#yes-on-measure-o" title="Permalink to this headline">#</a></h3>
 <p>Measure O legalizes and taxes the cultivation, processing, distribution, and sale of cannabis.
 This honestly shouldn’t even be necessary: California voted <a class="reference external" href="https://www.nytimes.com/2018/01/01/us/legal-pot-california.html">by 14 points</a> to legalize recreational cannabis in 2016, and the law took effect on January 1, 2018.
 But nearly three years later, many places have still banned it.
@@ -728,22 +804,22 @@ Measure O doesn’t go far enough–it still restricts locations and imposes one
 but it’s a step toward respecting the will of California voters,
 that also raises <a class="reference external" href="https://www.vcstar.com/story/news/2020/09/01/study-ventura-county-2020-election-commercial-production-marijuana-initiative/3446372001/">$3 million</a> in annual tax revenue
 and brings an underground business above board where it can be appropriately regulated.</p>
-</div>
-</div>
-<div class="section" id="camarillo">
-<h2>Camarillo<a class="headerlink" href="#camarillo" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="heather-schmidt-for-camarillo-city-council-district-4">
-<h3>Heather Schmidt for Camarillo City Council, District 4<a class="headerlink" href="#heather-schmidt-for-camarillo-city-council-district-4" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="camarillo">
+<h2>Camarillo<a class="headerlink" href="#camarillo" title="Permalink to this headline">#</a></h2>
+<section id="heather-schmidt-for-camarillo-city-council-district-4">
+<h3>Heather Schmidt for Camarillo City Council, District 4<a class="headerlink" href="#heather-schmidt-for-camarillo-city-council-district-4" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.w0ziuawbtuty">endorsed Schmidt</a>:</p>
 <blockquote>
 <div><p>Schmidt is exceptionally knowledgeable and supportive of all areas of housing and transportation reform, from the history and consequences of exclusionary zoning to the legislation and local actions that can make our communities more safe and affordable. She believes adding housing of all types is the key to affordability, saying in our questionnaire that she is “definitely in support of legalizing residential buildings up to five stories near major transit jobs and in job-rich areas…I also believe that a diversity of affordable housing options mixed in through out the single family home communities…is the right way to go.” We agree!</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="ojai">
-<h2>Ojai<a class="headerlink" href="#ojai" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="jeri-becker-for-ojai-city-council-district-4">
-<h3>Jeri Becker for Ojai City Council, District 4<a class="headerlink" href="#jeri-becker-for-ojai-city-council-district-4" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="ojai">
+<h2>Ojai<a class="headerlink" href="#ojai" title="Permalink to this headline">#</a></h2>
+<section id="jeri-becker-for-ojai-city-council-district-4">
+<h3>Jeri Becker for Ojai City Council, District 4<a class="headerlink" href="#jeri-becker-for-ojai-city-council-district-4" title="Permalink to this headline">#</a></h3>
 <p>Becker is aiming to unseat incumbent Suza Francina.
 Francina’s responses to the YIMBY questionnaire were generally pro-housing, for example expressing sadness that so many people who work in Ojai commute from other cities, and supporting fourplex legalization.
 But she’s presided over <a class="reference external" href="https://www.vcstar.com/story/news/2019/11/25/ojai-new-apartments-built-first-time-10-years/4191477002/">extremely slow growth in Ojai</a> (where only 15 to 16 new homes are allowed to be built each year), and throughout her campaign has <a class="reference external" href="https://suzafrancinaforojaicitycouncil.com/f/a-second-opinion-response-to-my-opponent-on-affordable-housing">condemned</a> the sorts of large developments needed to address the housing crisis:</p>
@@ -759,19 +835,19 @@ There’s no reason for short-term rentals to displace long-term residents if mo
 <blockquote>
 <div><p>Becker started off her questionnaire response by saying, “There is a housing crisis. I know, I see it daily…This crisis will not only affect every individual but also our City’s financial health, and the health of our businesses. Let’s make smart decisions that give Ojai a chance to continue to be livable and healthy.” From lobbying Sacramento to allow housing on church property, to proposing housing developments near transit, to advocating reduced fees on low-income housing, Becker has supported housing from many angles, and would bring that perspective to making Ojai more inclusive.</p>
 </div></blockquote>
-</div>
-<div class="section" id="yes-on-ojai-usd-measure-n">
-<h3>Yes on Ojai USD Measure N<a class="headerlink" href="#yes-on-ojai-usd-measure-n" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-ojai-usd-measure-n">
+<h3>Yes on Ojai USD Measure N<a class="headerlink" href="#yes-on-ojai-usd-measure-n" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.ce5xndn2l0gp">endorsed Measure N</a>:</p>
 <blockquote>
 <div><p>Measure N holds city services hostage on vehicle infrastructure, promising to deny sales tax revenue if pavement standards aren’t met. Threatening the city’s safety and security by cutting off funding for fire and emergency response is grotesque, especially for the sole purpose of making driving more pleasant.</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="oxnard">
-<h2>Oxnard<a class="headerlink" href="#oxnard" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="john-zaragoza-for-oxnard-mayor">
-<span id="nov2020-oxnard-mayor"></span><h3>John Zaragoza for Oxnard Mayor<a class="headerlink" href="#john-zaragoza-for-oxnard-mayor" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="oxnard">
+<h2>Oxnard<a class="headerlink" href="#oxnard" title="Permalink to this headline">#</a></h2>
+<section id="john-zaragoza-for-oxnard-mayor">
+<span id="nov2020-oxnard-mayor"></span><h3>John Zaragoza for Oxnard Mayor<a class="headerlink" href="#john-zaragoza-for-oxnard-mayor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://zaragozaformayor.com/">Zaragoza</a>,
 who is termed out after serving as county supervisor and previously served on Oxnard city council,
 is running against <a class="reference external" href="https://deirdrefrankformayorofoxnard2020.com/">Deirdre Frank</a>,
@@ -789,9 +865,9 @@ and most of his social media content is religious in nature.</p>
 <blockquote>
 <div><p>A current Ventura County supervisor and former Oxnard councilmember, Zaragoza has considerable experience working on local issues and supporting projects that provide needed housing to the city and county.</p>
 </div></blockquote>
-</div>
-<div class="section" id="oscar-madrigal-for-oxnard-city-council-district-3">
-<h3>Oscar Madrigal for Oxnard City Council, District 3<a class="headerlink" href="#oscar-madrigal-for-oxnard-city-council-district-3" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="oscar-madrigal-for-oxnard-city-council-district-3">
+<h3>Oscar Madrigal for Oxnard City Council, District 3<a class="headerlink" href="#oscar-madrigal-for-oxnard-city-council-district-3" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.facebook.com/electMadrigal/">Madrigal</a>, the incumbent, is running against
 <a class="reference external" href="http://www.arruejoforoxnard.com">Ronald Arruejo</a> and <a class="reference external" href="https://www.starrforoxnard.com/">Aaron Starr</a>.</p>
 <p>Madrigal was the only councilmember to vote for the <a class="reference external" href="https://medium.com/vcyimby/support-for-oxnard-fishermans-wharf-development-26d5204e9f7c">Fisherman’s Wharf development</a>, though he was also one of two who <a class="reference external" href="https://twitter.com/MaxGhenis/status/1197031530188509184">voted against a homeless shelter</a>.
@@ -804,9 +880,9 @@ He opposes taxes and doesn’t mention housing on his website.</p>
 <blockquote>
 <div><p>Madrigal connects housing segregation to school segregation, saying “As a teacher, I see this everyday.” As an incumbent, he has shown a commitment to bringing down housing costs, and would continue to do so if re-elected.</p>
 </div></blockquote>
-</div>
-<div class="section" id="steve-hall-and-gary-davis-for-oxnard-union-high-school-district-board">
-<h3>Steve Hall and Gary Davis for Oxnard Union High School District Board<a class="headerlink" href="#steve-hall-and-gary-davis-for-oxnard-union-high-school-district-board" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="steve-hall-and-gary-davis-for-oxnard-union-high-school-district-board">
+<h3>Steve Hall and Gary Davis for Oxnard Union High School District Board<a class="headerlink" href="#steve-hall-and-gary-davis-for-oxnard-union-high-school-district-board" title="Permalink to this headline">#</a></h3>
 <p>Incumbents <a class="reference external" href="https://www.electstevehall.com/">Steve Hall</a> and
 <a class="reference external" href="https://garydavis4ouhsd.com/">Gary Davis</a> are fighting for re-election,
 with <a class="reference external" href="https://botelloforouhsd.com/">Elizabeth Botello</a>,
@@ -825,9 +901,9 @@ She is also well-qualified, but I’m concerned about conflicts of interest from
 She’s running a positive, student-powered campaign, but lacks the experience of other candidates to hit the ground running at a critical time for the district.</p>
 <p>Crosby is an executive and business owner.
 Despite his emphasis on transparency on his website, he did not respond to the <a class="reference external" href="https://www.vcstar.com/story/news/2020/10/15/election-2020-ouhsd-gary-davis-steve-hall-elizabeth-botello-janessa-garcia/5975054002/">VC Star’s transparency questionnaire</a>.</p>
-</div>
-<div class="section" id="james-aragon-for-oxnard-treasurer">
-<h3>James Aragon for Oxnard Treasurer<a class="headerlink" href="#james-aragon-for-oxnard-treasurer" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="james-aragon-for-oxnard-treasurer">
+<h3>James Aragon for Oxnard Treasurer<a class="headerlink" href="#james-aragon-for-oxnard-treasurer" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.facebook.com/Aragon4Treasurer/">James Aragon</a>, a contract analyst, is running against incumbent
 <a class="reference external" href="https://www.facebook.com/Phillip-S-Molina-for-Oxnard-Treasurer-171608386581718">Phillip Molina</a>.
 A <a class="reference external" href="https://www.vcstar.com/story/news/2020/09/21/incumbent-oxnard-city-treasurer-phil-molina-has-one-challenger-november/5736579002/?fbclid=IwAR0BYtq93ZwQpVXtJps4euLSM1n5Gbhwg98clcLiPO8tXrYnND1NzNK1FNc">VC Star questionnaire</a> and
@@ -841,59 +917,59 @@ Molina was elected in 2016, and City Council took away some of his job responsib
 identified malfeasance, spurring <a class="reference internal" href="#nov2020-oxnard-l"><span class="std std-ref">Measure L</span></a> which would restore these duties.
 Both candidates support L (I’m voting against it).
 A new treasurer would ease this toxicity.</p>
-</div>
-<div class="section" id="jess-ramirez-and-celina-zacarias-for-harbor-district-1-commissioner">
-<h3>Jess Ramirez and Celina Zacarias for Harbor District 1 Commissioner<a class="headerlink" href="#jess-ramirez-and-celina-zacarias-for-harbor-district-1-commissioner" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="jess-ramirez-and-celina-zacarias-for-harbor-district-1-commissioner">
+<h3>Jess Ramirez and Celina Zacarias for Harbor District 1 Commissioner<a class="headerlink" href="#jess-ramirez-and-celina-zacarias-for-harbor-district-1-commissioner" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.jessramirez2020.com">Jess Ramirez</a> and
 <a class="reference external" href="https://www.votecelina.com">Celina Zacarias</a> are the incumbents, and only apparently serious candidates.
 Challengers O’Leary, a <a class="reference external" href="https://www.oxnardsd.org/Page/13059">retired educator</a> and former Oxnard School District Trustee, and
 Fraser, the <a class="reference external" href="http://www.smartvoter.org/2012/11/06/ca/vn/vote/fraser_a/bio.html">former president and CEO</a> of the Port Hueneme Chamber of Commerce, have neither a website nor Facebook page.</p>
-</div>
-<div class="section" id="yes-on-oxnard-measure-e">
-<h3>Yes on Oxnard Measure E<a class="headerlink" href="#yes-on-oxnard-measure-e" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-oxnard-measure-e">
+<h3>Yes on Oxnard Measure E<a class="headerlink" href="#yes-on-oxnard-measure-e" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.ce5xndn2l0gp">endorsed Measure E</a>:</p>
 <blockquote>
 <div><p>Amid extraordinary budget shortfalls due to the pandemic, cities need funding to continue critical services. This 1½¢ sales tax will maintain critical homelessness services and other priorities.</p>
 </div></blockquote>
-</div>
-<div class="section" id="no-on-oxnard-measure-f">
-<h3>No on Oxnard Measure F<a class="headerlink" href="#no-on-oxnard-measure-f" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-oxnard-measure-f">
+<h3>No on Oxnard Measure F<a class="headerlink" href="#no-on-oxnard-measure-f" title="Permalink to this headline">#</a></h3>
 <p>Measure F would move part of the permitting process to authorized third parties, creating unnecessary bureaucracy under the shroud of “expedited processing.”
 I fully support permit streamlining, but this isn’t it; the city can decide the best way to permit.</p>
-</div>
-<div class="section" id="no-on-oxnard-measure-l">
-<span id="nov2020-oxnard-l"></span><h3>No on Oxnard Measure L<a class="headerlink" href="#no-on-oxnard-measure-l" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-oxnard-measure-l">
+<span id="nov2020-oxnard-l"></span><h3>No on Oxnard Measure L<a class="headerlink" href="#no-on-oxnard-measure-l" title="Permalink to this headline">#</a></h3>
 <p>Measure L restores duties to the City Treasurer, whose responsibilities were cut following a city-led investigation into malfeasance.
 This is an issue for the city to deal with, not voters directly.</p>
-</div>
-<div class="section" id="no-on-oxnard-measure-m">
-<h3>No on Oxnard Measure M<a class="headerlink" href="#no-on-oxnard-measure-m" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-oxnard-measure-m">
+<h3>No on Oxnard Measure M<a class="headerlink" href="#no-on-oxnard-measure-m" title="Permalink to this headline">#</a></h3>
 <p>Measure M requires rule alterations for city meetings.
 Having attended many such meetings, the problem I’ve observed is what needs to go to a meeting (rather than being by-right), not whether materials are shared early enough.
 This would slow down operations, and isn’t fit for voters to decide directly; city council can make these calls.</p>
-</div>
-<div class="section" id="no-on-oxnard-measure-n">
-<h3>No on Oxnard Measure N<a class="headerlink" href="#no-on-oxnard-measure-n" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="no-on-oxnard-measure-n">
+<h3>No on Oxnard Measure N<a class="headerlink" href="#no-on-oxnard-measure-n" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.3ukk4j2akz4p">recommended voting No on Measure N</a>:</p>
 <blockquote>
 <div><p>Measure N holds city services hostage on vehicle infrastructure, promising to deny sales tax revenue if pavement standards aren’t met. Threatening the city’s safety and security by cutting off funding for fire and emergency response is grotesque, especially for the sole purpose of making driving more pleasant.</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="santa-paula">
-<h2>Santa Paula<a class="headerlink" href="#santa-paula" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="margaux-bangs-for-santa-paula-city-council">
-<h3>Margaux Bangs for Santa Paula City Council<a class="headerlink" href="#margaux-bangs-for-santa-paula-city-council" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="santa-paula">
+<h2>Santa Paula<a class="headerlink" href="#santa-paula" title="Permalink to this headline">#</a></h2>
+<section id="margaux-bangs-for-santa-paula-city-council">
+<h3>Margaux Bangs for Santa Paula City Council<a class="headerlink" href="#margaux-bangs-for-santa-paula-city-council" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.usyb505oa816">endorsed Bangs</a>:</p>
 <blockquote>
 <div><p>As a small business owner and entrepreneur, Bangs understands the importance of growth and development to ensure cities thrive.  Her answers to our candidate questionnaire were pro housing, and she has made affordable housing and rents a key part of her campaign.</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="simi-valley">
-<h2>Simi Valley<a class="headerlink" href="#simi-valley" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="joe-ayala-for-simi-valley-mayor">
-<h3>Joe Ayala for Simi Valley Mayor<a class="headerlink" href="#joe-ayala-for-simi-valley-mayor" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="simi-valley">
+<h2>Simi Valley<a class="headerlink" href="#simi-valley" title="Permalink to this headline">#</a></h2>
+<section id="joe-ayala-for-simi-valley-mayor">
+<h3>Joe Ayala for Simi Valley Mayor<a class="headerlink" href="#joe-ayala-for-simi-valley-mayor" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://joeayala.org/">Ayala</a> is among five candidates seeking to unseat incumbent <a class="reference external" href="https://www.facebook.com/KeithMashburnforMayor">Keith Mashburn</a>.
 Mashburn has opposed housing as mayor, including overseeing an <a class="reference external" href="https://www.vcstar.com/story/news/2020/03/14/simi-valley-delays-278-unit-apartments-state-says-must-approve/5022750002/">abhorrent attempt</a> to deny an affordable senior housing development, in defiance of state law.</p>
 <p>Ayala was one of two candidates for mayor who filled out the VC YIMBY questionnaire, and he gave the more pro-housing responses.
@@ -902,9 +978,9 @@ He also has a strong background and has a solid chance to replace the conservati
 <blockquote>
 <div><p>Ayala, a veteran and union negotiator, is currently running to unseat anti-housing Simi Valley mayor Keith Mashburn.  Having grown up working class, Ayala understands the hardships renters face.  He has stated he is looking to increase the development of missing middle housing to house Simi Valley’s workforce, saying in our questionnaire that, “All people need affordable homes where they can feel safe and secure in their community.”</p>
 </div></blockquote>
-</div>
-<div class="section" id="phil-loos-for-simi-valley-city-council-district-1">
-<h3>Phil Loos for Simi Valley City Council, District 1<a class="headerlink" href="#phil-loos-for-simi-valley-city-council-district-1" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="phil-loos-for-simi-valley-city-council-district-1">
+<h3>Phil Loos for Simi Valley City Council, District 1<a class="headerlink" href="#phil-loos-for-simi-valley-city-council-district-1" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.philloos.com/">Loos</a> is challenging incumbent <a class="reference external" href="https://www.votefordeedee.com/">Dee Dee Cavanaugh</a>.</p>
 <p>Cavanaugh has presided over an awful city council that has sought to defy state law in rejecting an affordable senior housing development.
 She also made <a class="reference external" href="https://www.vcstar.com/story/news/local/communities/simi-valley/2020/05/12/report-clears-simi-council-members-race-charges-made-colleague/3106824001/">insulting remarks</a> about a Latina fellow councilmember.
@@ -916,17 +992,17 @@ Cavanaugh’s website has no housing plan.</p>
 <blockquote>
 <div><p>Affordable and attainable housing for young workers, working class families, and seniors on fixed incomes</p>
 </div></blockquote>
-</div>
-<div class="section" id="ryan-valencia-for-simi-valley-city-council-district-3">
-<h3>Ryan Valencia for Simi Valley City Council, District 3<a class="headerlink" href="#ryan-valencia-for-simi-valley-city-council-district-3" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="ryan-valencia-for-simi-valley-city-council-district-3">
+<h3>Ryan Valencia for Simi Valley City Council, District 3<a class="headerlink" href="#ryan-valencia-for-simi-valley-city-council-district-3" title="Permalink to this headline">#</a></h3>
 <p>Similarly to Loos, <a class="reference external" href="https://www.ryanvalencia.org/">Valencia</a> is challenging an anti-density incumbent, <a class="reference external" href="https://www.facebook.com/elainesimivalleycitycouncil/">Elaine Litster</a>, on a pro-housing, pro-transit platform that emphasizes workforce housing and homelessness.</p>
 <p>Simi Valley needs new leadership (other than Ruth Luevanos): Ayala, Loos, and Valencia will provide it.</p>
-</div>
-</div>
-<div class="section" id="thousand-oaks">
-<h2>Thousand Oaks<a class="headerlink" href="#thousand-oaks" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="danny-chulack-and-al-adam-for-thousand-oaks-city-council">
-<h3>Danny Chulack and Al Adam for Thousand Oaks City Council<a class="headerlink" href="#danny-chulack-and-al-adam-for-thousand-oaks-city-council" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="thousand-oaks">
+<h2>Thousand Oaks<a class="headerlink" href="#thousand-oaks" title="Permalink to this headline">#</a></h2>
+<section id="danny-chulack-and-al-adam-for-thousand-oaks-city-council">
+<h3>Danny Chulack and Al Adam for Thousand Oaks City Council<a class="headerlink" href="#danny-chulack-and-al-adam-for-thousand-oaks-city-council" title="Permalink to this headline">#</a></h3>
 <p>Two of eight candidates will fill open city council seats in Thousand Oaks.
 Danny Chulack and incumbent <a class="reference external" href="https://www.aladamforcouncil.com/">Al Adam</a> are the pro-housing options.</p>
 <p>Adam has supported the the Thousand Oaks Boulevard Specific Plan, the mixed-use <a class="reference external" href="https://www.vcstar.com/story/news/local/communities/conejo-valley/2020/05/14/thousand-oaks-development-largest-proposed-mixed-use-project-pre-screening/3121022001/">T.O. Ranch</a> project, and other housing in his tenure.</p>
@@ -941,12 +1017,12 @@ he also strongly disagrees with building housing at all levels of affordability,
 <blockquote>
 <div><p>Chulack has made housing a top campaign issue, especially for students, seniors, and people experiencing homelessness. He recognizes that protecting Thousand Oaks’s open space is not in conflict with addressing the housing shortage. He said in our questionnaire, “I am committed to building more affordable housing in the city.”</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="ventura">
-<h2>Ventura<a class="headerlink" href="#ventura" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="doug-halter-for-ventura-city-council-district-2">
-<h3>Doug Halter for Ventura City Council, District 2<a class="headerlink" href="#doug-halter-for-ventura-city-council-district-2" title="Permalink to this headline">¶</a></h3>
+</section>
+</section>
+<section id="ventura">
+<h2>Ventura<a class="headerlink" href="#ventura" title="Permalink to this headline">#</a></h2>
+<section id="doug-halter-for-ventura-city-council-district-2">
+<h3>Doug Halter for Ventura City Council, District 2<a class="headerlink" href="#doug-halter-for-ventura-city-council-district-2" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://doughalter.com/">Halter</a> is running to unseat <a class="reference external" href="https://www.christyweir.com/">Christy Weir</a>.
 <a class="reference external" href="https://dougie4district2.com/">Dougie Michie</a> is also running from the right.</p>
 <p>Weir is a major NIMBY. From her website:</p>
@@ -959,9 +1035,9 @@ he also strongly disagrees with building housing at all levels of affordability,
 <blockquote>
 <div><p>Halter deeply understands the causes and consequences of our housing shortage, and supports housing at all levels, especially infill. In our questionnaire, he said, “Affordable housing; infill construction before considering any encroachment on farmland and higher density…are a big part of the solutions we need and my desire to run for office.” He has also served the community as a commissioner and board member of several organizations, bringing him the experience, knowledge, and disposition to get more housing built in Ventura.</p>
 </div></blockquote>
-</div>
-<div class="section" id="aaron-gaston-for-ventura-city-council-district-3">
-<h3>Aaron Gaston for Ventura City Council, District 3<a class="headerlink" href="#aaron-gaston-for-ventura-city-council-district-3" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="aaron-gaston-for-ventura-city-council-district-3">
+<h3>Aaron Gaston for Ventura City Council, District 3<a class="headerlink" href="#aaron-gaston-for-ventura-city-council-district-3" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.aarongaston.com/">Gaston</a> is competing against <a class="reference external" href="https://barbarabrowncitycouncil.com/">Barbara Brown</a> and
 <a class="reference external" href="https://mikeforventura.com/issues/housing-crisis/">Mike Johnson</a>.
 William Cornell is nominally running but doesn’t seem to have a serious campaign.</p>
@@ -983,22 +1059,22 @@ In the candidate forum, his number-2 priority was “more housing, market rate a
 He supported preserving the design review and historic preservation committees, but potentially reducing their power to block projects.
 However, he’s endorsed by the NIMBY group Ventura Citizens for Hillside Preservation (which also endorsed Christy Weir).</p>
 <p>Beyond his housing views, Gaston has experience in the technology field, which would bring new needed perspective on growing Ventura’s economy with new firms like the successful TheTradeDesk.</p>
-</div>
-<div class="section" id="nancy-pedersen-for-ventura-city-council-district-7">
-<h3>Nancy Pedersen for Ventura City Council, District 7<a class="headerlink" href="#nancy-pedersen-for-ventura-city-council-district-7" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="nancy-pedersen-for-ventura-city-council-district-7">
+<h3>Nancy Pedersen for Ventura City Council, District 7<a class="headerlink" href="#nancy-pedersen-for-ventura-city-council-district-7" title="Permalink to this headline">#</a></h3>
 <p><a class="reference external" href="https://www.pedersen4ventura.com">Pedersen</a> is running against <a class="reference external" href="https://joeschroederforcitycouncil.com/">Joe Schroeder</a>; other candidates Heather May Ellinger and Michael James Nolan do not appear to be running serious campaigns.</p>
 <p>Pedersen’s website calls for “providing an appropriate level of desirable housing options.”</p>
 <p>Schroeder’s website doesn’t mention housing, and he is endorsed by NIMBYs such as Christy Weir and Ventura Citizens for Hillside Preservation.</p>
-</div>
-<div class="section" id="yes-on-ventura-usd-measure-h">
-<h3>Yes on Ventura USD Measure H<a class="headerlink" href="#yes-on-ventura-usd-measure-h" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="yes-on-ventura-usd-measure-h">
+<h3>Yes on Ventura USD Measure H<a class="headerlink" href="#yes-on-ventura-usd-measure-h" title="Permalink to this headline">#</a></h3>
 <p>VC YIMBY <a class="reference external" href="https://www.vcyimby.org/endorsements#h.tuf5rd2bufia">endorsed Measure H</a>:</p>
 <blockquote>
 <div><p>This four-year renewal of a $59 parcel tax would fund a range of academic programs. We’re especially fond of parcel taxes since they tax single family homes more than apartments (apartment complexes are treated as single parcels), making this a pro-housing way to help our children succeed.</p>
 </div></blockquote>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -1022,9 +1098,11 @@ However, he’s endorsed by the NIMBY group Ventura Citizens for Hillside Preser
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="california.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -1040,24 +1118,28 @@ However, he’s endorsed by the NIMBY group Ventura Citizens for Hillside Preser
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Max Ghenis<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Max Ghenis<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>
