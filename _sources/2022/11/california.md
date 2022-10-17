@@ -168,7 +168,7 @@ For example, such an analysis might consider:
 * Fetal brain development: [Clouchot (2012)](https://www.sciencedirect.com/science/article/pii/S0002937811012701?casa_token=CBeArv1RTy4AAAAA:tiIcAkJcRqLv8Xh34RMXqiumvIf6QAtn0Xamadn9kUN65oUd4S6NuN-hy8PS9uUj1Dqp2ZxiSw) finds that they grow their brain size and activity at between 5 and 13 percent per week from their 25th through 37th week of gestational age
 * The relationship between brain development and capacity for consciousness and pain ([research of nonhuman animals](https://reducing-suffering.org/is-brain-size-morally-relevant/#Small_brains_matter_more_per_neuron) finds it may not be linear, and in general, research by the Effective Altruism community for prioritizing animal welfare causes would likely be relevant)
 * Medical reasons to believe abortion procedures may or may not involve pain to the fetus
-* Suffering experienced by babies with developmental disabilities so severe that they will die as a baby, are born vs. aborted
+* Well-being of babies with severe developmental disabilities if they are born
 * Societal welfare implications of population growth, overall and with respect to the marginally-aborted
 * The effect of abortion access on the well-being of (would-be) mothers, in the short and long term
 
@@ -181,9 +181,9 @@ I haven't seen a study addressing the first question, though I suspect a differe
 Eyeballing [CDC data](https://www.cdc.gov/mmwr/volumes/70/ss/ss7009a1.htm), more liberal states appear to have greater percentages of abortions occurring after 21 weeks.
 For example, such abortions represent one percent of all abortions in the states that reported them, but 1.9% in Colorado, which [has no gestational limits](https://www.kff.org/womens-health-policy/state-indicator/gestational-limit-abortions/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D).
 
-For a sense of magnitude, note that the commonly cited one percent figure excludes California and eight other states.[^abortion-states]
-Overall they represented 4,882 abortions in 2019, or about 6,400 assuming the same rates among non-reporting states.
-[About 20,000 infants](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm) (babies in their first year) die in the US each year.
+The commonly cited figure that one percent of abortions occur after 21 weeks is based on data that excludes California and eight other states (California does not report abortion statistics).[^abortion-states]
+In the reporting areas, 4,882 abortions occurred after 21 weeks in 2019; assuming the same rates among non-reporting states, that would be about 6,400 abortions.
+For context, [about 20,000 infants](https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm) (babies in their first year) die in the US each year.
 
 [^abortion-states]: The CDC footnotes that "Data from 44 reporting areas; excludes eight reporting areas (California, District of Columbia, Illinois, Maryland, New Hampshire, New Mexico, New York State [excluding New York City], and Wisconsin) that did not report, did not report by number of previous induced abortions, or did not meet reporting standards." These reporting areas contain about 80 million combined residents, or about 24 percent of the US.
 
@@ -199,12 +199,12 @@ Overall, if I were deciding only from a utilitarian perspective, I would probabl
 #### Decision
 
 While I understand many will vote on Prop 1 purely as a reinforcement of California's abortion law in response to Dobbs, voters should recognize that it presents a real and substantive policy change.
-Voting on abortion policy pushed me to research and introspect on it more than I have in the past, and as a result, I feel somewhat more confident identifying my preferred policy:
-If I had my way, I would enact a 24 week limit on abortion, with exceptions for the mother's health and for severe disabilities or health problems---essentially California's current policy, plus exceptions for severe disabilities or health problems, for example those that make the baby unlikely to survive its first year.
+Voting on abortion policy pushed me to research and introspect on it more than I have in the past, and as a result, I feel somewhat more confident identifying my preferred policy.
+If I had my way, I would limit abortions after 24 weeks to those where the mother's health is at risk or where the baby is likely to have severe disabilities or health problems---essentially California's current policy, plus exceptions for severe disabilities or health problems, for example those that make the baby unlikely to survive its first year.
 
 I am closer to Prop 1 from a public opinion perspective, but farther from a utilitarian perspective.
 As a tie-breaker, I'll inject a deontological belief that adults deserve control over their bodies, which favors Prop 1.
-Abortion is understandably a divisive issue, but I hope more rigorous research can identify policies that better align with people's values.
+Abortion is understandably a divisive issue, but more rigorous research can identify policies that better align with people's values.
 Until then, my best guess is that greater abortion access is better on the margin, including in states as permissive as California.
 
 ### YES on Prop 26
@@ -281,6 +281,8 @@ As I've recommended in every such instance, vote no on this attempt at regulator
 
 Prop 30 levies a new 1.75% tax on taxable incomes above \$2 million, with the revenue funding subsidies for zero-emissions vehicles (45%), charging stations (35%), and wildfire response and prevention (20%).
 
+#### Tax analysis
+
 The new tax would raise the total marginal tax rate for Californians with income above \$2 million from 53.75% to 55.5%:
 * 37% federal income tax
 * 1.45% federal Medicare tax
@@ -302,6 +304,10 @@ The report shows that filers with AGI above $2 million:
 * Count 35,000 (0.2% of all filers)
 * Had \$220 billion in total taxable income
 * Paid \$27 billion in state income tax, which was 30% of all state personal income income tax revenue
+
+#### Spending analysis
+
+#### Decision
 
 ### NO on Prop 31
 
