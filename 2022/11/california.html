@@ -50,6 +50,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="California" href="../06/california.html" />
@@ -519,6 +521,23 @@ title="Print to PDF"
       <a class="reference internal nav-link" href="#tax-analysis">
        Tax analysis
       </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#substitution-effect">
+         Substitution effect
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#income-effect">
+         Income effect
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#migration">
+         Migration
+        </a>
+       </li>
+      </ul>
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#spending-analysis">
@@ -748,6 +767,23 @@ title="Print to PDF"
       <a class="reference internal nav-link" href="#tax-analysis">
        Tax analysis
       </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#substitution-effect">
+         Substitution effect
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#income-effect">
+         Income effect
+        </a>
+       </li>
+       <li class="toc-h5 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#migration">
+         Migration
+        </a>
+       </li>
+      </ul>
      </li>
      <li class="toc-h4 nav-item toc-entry">
       <a class="reference internal nav-link" href="#spending-analysis">
@@ -954,6 +990,7 @@ For example, such an analysis might consider:</p>
 <li><p>The relationship between brain development and capacity for consciousness and pain (<a class="reference external" href="https://reducing-suffering.org/is-brain-size-morally-relevant/#Small_brains_matter_more_per_neuron">research of nonhuman animals</a> finds it may not be linear, and in general, research by the Effective Altruism community for prioritizing animal welfare causes would likely be relevant)</p></li>
 <li><p>Medical reasons to believe abortion procedures may or may not involve pain to the fetus</p></li>
 <li><p>Well-being of babies with severe developmental disabilities if they are born</p></li>
+<li><p>Impact of abortion access on total fertility (i.e., do women replace their abortions with other children later?)</p></li>
 <li><p>Societal welfare implications of population growth, overall and with respect to the marginally-aborted</p></li>
 <li><p>The effect of abortion access on the well-being of (would-be) mothers, in the short and long term</p></li>
 </ul>
@@ -1062,6 +1099,25 @@ Vote no.</p>
 </section>
 <section id="tax-analysis">
 <h4>Tax analysis<a class="headerlink" href="#tax-analysis" title="Permalink to this headline">#</a></h4>
+<p>The <a class="reference external" href="https://lao.ca.gov/BallotAnalysis/Proposition?number=30&amp;year=2022">legislative analyst estimates</a> that it will raise <span class="math notranslate nohighlight">\(3.5 billion to \)</span>5 billion annually.
+But this only considers the revenue from the extra tax bracket.
+In reality, this law will reduce tax revenues below the $2 million threshold, as it could:</p>
+<ul class="simple">
+<li><p>Encourage high-earning residents to move out of California</p></li>
+<li><p>Discourage high-earning would-be residents from moving to California</p></li>
+<li><p>Reduce income for residents who would face the new tax</p></li>
+</ul>
+<p>The legislative analyst acknowledges this, but puzzlingly declines to give even a ballpark estimate of the revenue loss:</p>
+<blockquote>
+<div><p>Some taxpayers probably would take steps to reduce the amount of income taxes they owe. This would reduce existing state revenues used to pay for activities not funded by Proposition 30. The degree to which this would happen and how much revenue the state might lose as a result is unknown.</p>
+</div></blockquote>
+<p>This is frankly a shameful shirking of the legislative analyst’s responsibility.
+Voters deserve to know how much this ballot measure will affect other state programs.
+So I’ll give it a shot.</p>
+<p><em>Warning: Math ahead. Skip the the <strong>Spending analysis</strong> section for less math.</em></p>
+<section id="substitution-effect">
+<h5>Substitution effect<a class="headerlink" href="#substitution-effect" title="Permalink to this headline">#</a></h5>
+<p>The first step is to find how much this tax changes the net marginal wage: the share of income that someone will take home after taxes.</p>
 <p>The new tax would raise the total marginal tax rate for Californians with income above $2 million from 53.75% to 55.5%:</p>
 <ul class="simple">
 <li><p>37% federal income tax</p></li>
@@ -1069,12 +1125,19 @@ Vote no.</p>
 <li><p>0.9% federal additional Medicare tax</p></li>
 <li><p>12.3% California income tax</p></li>
 <li><p>1% California mental health services tax</p></li>
-<li><p>1.1% California payroll tax</p></li>
+<li><p>1.1% California payroll tax (<a class="reference external" href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB951">SB 951</a> just expanded this to all workers)</p></li>
 <li><p><strong>1.75% new California tax</strong></p></li>
 </ul>
-<p><a class="reference external" href="https://twitter.com/MaxGhenis/status/1576033631377629184">https://twitter.com/MaxGhenis/status/1576033631377629184</a></p>
-<p>LAO: 3.5 billion to $5 billion annually
-<a class="reference external" href="https://lao.ca.gov/BallotAnalysis/Proposition?number=30&amp;year=2022">https://lao.ca.gov/BallotAnalysis/Proposition?number=30&amp;year=2022</a></p>
+<p>The change to the net marginal wage is (1-0.555) / (1-0.5375) - 1 = <strong>-3.8%</strong>.
+That is, the new tax would reduce the amount of each extra dollar of income that top earners would take home by 3.8%.</p>
+<p>The <a class="reference external" href="https://www.cbo.gov/sites/default/files/cbofiles/attachments/10-25-2012-Labor_Supply_and_Fiscal_Policy.pdf">Congressional Budget Office estimates</a> that top earners have a labor supply substitution elasticity of 0.22; that is, a 10% increase in their net marginal wage will increase their labor supply by 2.2%.
+Their income would be expected to fall 0.22 * 3.8% = 0.84% through this channel.</p>
+</section>
+<section id="income-effect">
+<h5>Income effect<a class="headerlink" href="#income-effect" title="Permalink to this headline">#</a></h5>
+<p>CBO also estimates an income elasticity of 0.05; that is, a 10% increase in their net income will <em>reduce</em> their income by 0.5%.
+The extra tax would therefore <em>increase</em> their income, as they strive to make up for the lost net income.
+To estimate their income effect, though, we have to estimate how much of their income would be subject to the new tax.</p>
 <p>The Franchise Tax Board’s <a class="reference external" href="https://data.ftb.ca.gov/California-Personal-Income-Tax/PIT-Annual-Report-2020/s2q7-rtsh">most recent Personal Income Tax report</a> (for tax year 2019) summarizes tax returns by adjusted gross income bin.
 While this will overstate the number of affected filers, since AGI exceeds taxable income, it would be roughly offset by income growth from 2019 to 2023, when the tax would begin.</p>
 <p>The report shows that filers with AGI above $2 million:</p>
@@ -1083,12 +1146,51 @@ While this will overstate the number of affected filers, since AGI exceeds taxab
 <li><p>Had $220 billion in total taxable income</p></li>
 <li><p>Paid $27 billion in state income tax, which was 30% of all state personal income income tax revenue</p></li>
 </ul>
+<p>Among earners in the $2 million+ AGI bin, the share of income subject to the new tax would be (220 billion - 35,000 * 2 million) / 220 billion = 150 billion / 220 billion ~= 70%.</p>
+<p>Their net income would therefore falls by 1.75% * 70% * 0.05 = 0.06%.</p>
+<p>In this case, the substitution effect is about 14 times larger than the income effect, and overall the labor supply of residents would fall by 0.84% - 0.06% = 0.78%.
+This would be about $210 million in lost revenue per year.</p>
+<p>But would about migration?</p>
+</section>
+<section id="migration">
+<h5>Migration<a class="headerlink" href="#migration" title="Permalink to this headline">#</a></h5>
+<p>Higher top tax rates can affect migration in two ways: people can move out, and people can avoid moving in.
+One study appears to be well-situated to estimate the impact:</p>
+<p>[todo: finish]</p>
+</section>
 </section>
 <section id="spending-analysis">
 <h4>Spending analysis<a class="headerlink" href="#spending-analysis" title="Permalink to this headline">#</a></h4>
+<p>80% of the revenue would fund vehicle subsidies, between subsidies for the vehicles themselves and for charging them.
+These would be wasteful and sprawl-inducing.</p>
+<p><a class="reference external" href="https://www.nber.org/papers/w25771">Xing (2019)</a> finds that “70% of [clean vehicle tax credits] were obtained by households that would have bought an EV without the credits.”
+As a result, they estimate that it costs about <span class="math notranslate nohighlight">\(800 for clean vehicle subsidies to avert a ton of carbon emissions.
+Even the young [direct air capture technology](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal) only costs about \)</span>250 to $600 per ton to remove a ton of emissions.</p>
+<p>Even Xing may be overestimating the benfits of clean vehicle subsidies, because they don’t account for the impact on sprawl.
+For example, <a class="reference external" href="https://journals.sagepub.com/doi/abs/10.1068/a44259?journalCode=epna">Tanguay (2012)</a> finds that higher gas prices increase the population living in the inner city and decrease low-density housing units.
+Cheaper travel, which also applies to charging station subsidies, encourage sprawl, which harms the environment through paving over nature, adding to construction materials, and increasing travel from other vehicles.
+Prop 30 exacerbates these issues by reserving some funds for charging stations specifically at single family homes.</p>
+<p>To a first approximation, my guess is that clean vehicle and charging subsidies have zero emissions impact when accounting for land use.</p>
+<p>California’s track record reveals other problems with clean vehicle subsidies, namely that they create benefit cliffs that punish people for earning more money.
+Today, a California family that buys a clean vehicle and home charger [loses <span class="math notranslate nohighlight">\(9,500 in subsidies](https://twitter.com/MaxGhenis/status/1490065501640265730) once they earn \)</span>1 above 400% of the poverty line:</p>
+<ul class="simple">
+<li><p>$2,500 from California’s Clean Vehicle Rebate Project for the vehicle</p></li>
+<li><p>$5,000 from California’s Clean Vehicle Assistance Program for the vehicle</p></li>
+<li><p>$2,000 from California’s Clean Vehicle Assistance Program for the charger</p></li>
+</ul>
+<p>Existing programs create cliffs at other margins as well.
+These programs violate basic guiding principles of public policy, and Prop 30 would expand their brokenness.</p>
+<p>Regarding the remaining 20% of revenues, I’m admittedly not very familiar on wildfire prevention programs.
+I would guess that this is valuable today, though I’m skeptical that we should lock in even this for the next 20 years.
+Nevertheless, we can fund it from the general fund.</p>
 </section>
 <section id="id11">
 <h4>Decision<a class="headerlink" href="#id11" title="Permalink to this headline">#</a></h4>
+<p>My quick-and-dirty analysis could under- or over-estimate the revenue impact.
+For example, it might be larger if high-income Californians have more income in capital gains, which can be timed or donated in ways to avoid incurring income more than wages, or if remote work makes people more mobile compared to the studies of Californians and Spaniards from years ago.
+It might be smaller if the spending programs lure people into California, or if they generate local spending multipliers that generate more revenue.</p>
+<p>Regardless, taxes shrink the economy, and spending more money on vehicles for the next twenty years is not a worthwhile reason to do it.
+Vote no.</p>
 </section>
 </section>
 <section id="no-on-prop-31">

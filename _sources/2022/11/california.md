@@ -169,6 +169,7 @@ For example, such an analysis might consider:
 * The relationship between brain development and capacity for consciousness and pain ([research of nonhuman animals](https://reducing-suffering.org/is-brain-size-morally-relevant/#Small_brains_matter_more_per_neuron) finds it may not be linear, and in general, research by the Effective Altruism community for prioritizing animal welfare causes would likely be relevant)
 * Medical reasons to believe abortion procedures may or may not involve pain to the fetus
 * Well-being of babies with severe developmental disabilities if they are born
+* Impact of abortion access on total fertility (i.e., do women replace their abortions with other children later?)
 * Societal welfare implications of population growth, overall and with respect to the marginally-aborted
 * The effect of abortion access on the well-being of (would-be) mothers, in the short and long term
 
@@ -283,19 +284,47 @@ Prop 30 levies a new 1.75% tax on taxable incomes above \$2 million, with the re
 
 #### Tax analysis
 
+The [legislative analyst estimates](https://lao.ca.gov/BallotAnalysis/Proposition?number=30&year=2022) that it will raise $3.5 billion to $5 billion annually.
+But this only considers the revenue from the extra tax bracket.
+In reality, this law will reduce tax revenues below the $2 million threshold, as it could:
+* Encourage high-earning residents to move out of California
+* Discourage high-earning would-be residents from moving to California
+* Reduce income for residents who would face the new tax
+
+The legislative analyst acknowledges this, but puzzlingly declines to give even a ballpark estimate of the revenue loss:
+
+> Some taxpayers probably would take steps to reduce the amount of income taxes they owe. This would reduce existing state revenues used to pay for activities not funded by Proposition 30. The degree to which this would happen and how much revenue the state might lose as a result is unknown.
+
+This is frankly a shameful shirking of the legislative analyst's responsibility.
+Voters deserve to know how much this ballot measure will affect other state programs.
+So I'll give it a shot.
+
+*Warning: Math ahead. Skip the the **Spending analysis** section for less math.*
+
+##### Substitution effect
+
+The first step is to find how much this tax changes the net marginal wage: the share of income that someone will take home after taxes.
+
 The new tax would raise the total marginal tax rate for Californians with income above \$2 million from 53.75% to 55.5%:
 * 37% federal income tax
 * 1.45% federal Medicare tax
 * 0.9% federal additional Medicare tax
 * 12.3% California income tax
 * 1% California mental health services tax
-* 1.1% California payroll tax
+* 1.1% California payroll tax ([SB 951](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB951) just expanded this to all workers)
 * **1.75% new California tax**
 
-https://twitter.com/MaxGhenis/status/1576033631377629184
+The change to the net marginal wage is (1-0.555) / (1-0.5375) - 1 = **-3.8%**.
+That is, the new tax would reduce the amount of each extra dollar of income that top earners would take home by 3.8%.
 
-LAO: 3.5 billion to $5 billion annually
-https://lao.ca.gov/BallotAnalysis/Proposition?number=30&year=2022
+The [Congressional Budget Office estimates](https://www.cbo.gov/sites/default/files/cbofiles/attachments/10-25-2012-Labor_Supply_and_Fiscal_Policy.pdf) that top earners have a labor supply substitution elasticity of 0.22; that is, a 10% increase in their net marginal wage will increase their labor supply by 2.2%.
+Their income would be expected to fall 0.22 * 3.8% = 0.84% through this channel.
+
+##### Income effect
+
+CBO also estimates an income elasticity of 0.05; that is, a 10% increase in their net income will *reduce* their income by 0.5%.
+The extra tax would therefore *increase* their income, as they strive to make up for the lost net income.
+To estimate their income effect, though, we have to estimate how much of their income would be subject to the new tax.
 
 The Franchise Tax Board's [most recent Personal Income Tax report](https://data.ftb.ca.gov/California-Personal-Income-Tax/PIT-Annual-Report-2020/s2q7-rtsh) (for tax year 2019) summarizes tax returns by adjusted gross income bin.
 While this will overstate the number of affected filers, since AGI exceeds taxable income, it would be roughly offset by income growth from 2019 to 2023, when the tax would begin.
@@ -305,9 +334,59 @@ The report shows that filers with AGI above $2 million:
 * Had \$220 billion in total taxable income
 * Paid \$27 billion in state income tax, which was 30% of all state personal income income tax revenue
 
+Among earners in the \$2 million+ AGI bin, the share of income subject to the new tax would be (220 billion - 35,000 * 2 million) / 220 billion = 150 billion / 220 billion ~= 70%.
+
+Their net income would therefore falls by 1.75% * 70% * 0.05 = 0.06%.
+
+In this case, the substitution effect is about 14 times larger than the income effect, and overall the labor supply of residents would fall by 0.84% - 0.06% = 0.78%.
+This would be about \$210 million in lost revenue per year.
+
+But would about migration?
+
+##### Migration
+
+Higher top tax rates can affect migration in two ways: people can move out, and people can avoid moving in.
+One study appears to be well-situated to estimate the impact: 
+
+[todo: finish]
+
 #### Spending analysis
 
+80% of the revenue would fund vehicle subsidies, between subsidies for the vehicles themselves and for charging them.
+These would be wasteful and sprawl-inducing.
+
+[Xing (2019)](https://www.nber.org/papers/w25771) finds that "70% of [clean vehicle tax credits] were obtained by households that would have bought an EV without the credits."
+As a result, they estimate that it costs about $800 for clean vehicle subsidies to avert a ton of carbon emissions.
+Even the young [direct air capture technology](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal) only costs about $250 to $600 per ton to remove a ton of emissions.
+
+Even Xing may be overestimating the benfits of clean vehicle subsidies, because they don't account for the impact on sprawl.
+For example, [Tanguay (2012)](https://journals.sagepub.com/doi/abs/10.1068/a44259?journalCode=epna) finds that higher gas prices increase the population living in the inner city and decrease low-density housing units.
+Cheaper travel, which also applies to charging station subsidies, encourage sprawl, which harms the environment through paving over nature, adding to construction materials, and increasing travel from other vehicles.
+Prop 30 exacerbates these issues by reserving some funds for charging stations specifically at single family homes.
+
+To a first approximation, my guess is that clean vehicle and charging subsidies have zero emissions impact when accounting for land use.
+
+California's track record reveals other problems with clean vehicle subsidies, namely that they create benefit cliffs that punish people for earning more money.
+Today, a California family that buys a clean vehicle and home charger [loses $9,500 in subsidies](https://twitter.com/MaxGhenis/status/1490065501640265730) once they earn $1 above 400% of the poverty line:
+* $2,500 from California's Clean Vehicle Rebate Project for the vehicle
+* $5,000 from California's Clean Vehicle Assistance Program for the vehicle
+* $2,000 from California's Clean Vehicle Assistance Program for the charger
+
+Existing programs create cliffs at other margins as well.
+These programs violate basic guiding principles of public policy, and Prop 30 would expand their brokenness.
+
+Regarding the remaining 20% of revenues, I'm admittedly not very familiar on wildfire prevention programs.
+I would guess that this is valuable today, though I'm skeptical that we should lock in even this for the next 20 years.
+Nevertheless, we can fund it from the general fund.
+
 #### Decision
+
+My quick-and-dirty analysis could under- or over-estimate the revenue impact.
+For example, it might be larger if high-income Californians have more income in capital gains, which can be timed or donated in ways to avoid incurring income more than wages, or if remote work makes people more mobile compared to the studies of Californians and Spaniards from years ago.
+It might be smaller if the spending programs lure people into California, or if they generate local spending multipliers that generate more revenue.
+
+Regardless, taxes shrink the economy, and spending more money on vehicles for the next twenty years is not a worthwhile reason to do it.
+Vote no.
 
 ### NO on Prop 31
 
