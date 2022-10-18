@@ -233,7 +233,7 @@ California tribes deserve this economic opportunity, California sports enthusias
 Prop 27 covers similar territory to Prop 26, though it allows online sports betting in more places and levies more fees and taxes.
 Accordingly, [the Legislative Analyst Office estimates](https://lao.ca.gov/BallotAnalysis/Proposition?number=27&year=2022) that it would raise significantly more revenue than Prop 26:
 
-> Increased state revenues, possibly in the hundreds of millions of dollars but not likely to exceed $500 million annually. Some revenues would support state regulatory costs, possibly reaching the mid-tens of millions of dollars annually.
+> Increased state revenues, possibly in the hundreds of millions of dollars but not likely to exceed \$500 million annually. Some revenues would support state regulatory costs, possibly reaching the mid-tens of millions of dollars annually.
 
 85% of the revenues would fund state housing and mental health programs, and the remaining 15% would go to federally recognized tribes in California that do not offer online sports betting.
 
@@ -279,9 +279,9 @@ Prop 30 levies a new 1.75% tax on taxable incomes above \$2 million, with the re
 
 #### Tax analysis
 
-The [legislative analyst estimates](https://lao.ca.gov/BallotAnalysis/Proposition?number=30&year=2022) that it will raise $3.5 billion to $5 billion annually.
+The [legislative analyst estimates](https://lao.ca.gov/BallotAnalysis/Proposition?number=30&year=2022) that it will raise \$3.5 billion to \$5 billion annually.
 But this only considers the revenue from the extra tax bracket.
-In reality, this law will reduce tax revenues below the $2 million threshold, as it could:
+In reality, this law will reduce tax revenues below the \$2 million threshold, as it could:
 * Encourage high-earning residents to move out of California
 * Discourage high-earning would-be residents from moving to California
 * Reduce income for residents who would face the new tax
@@ -324,7 +324,7 @@ To estimate their income effect, though, we have to estimate how much of their i
 The Franchise Tax Board's [most recent Personal Income Tax report](https://data.ftb.ca.gov/California-Personal-Income-Tax/PIT-Annual-Report-2020/s2q7-rtsh) (for tax year 2019) summarizes tax returns by adjusted gross income bin.
 While this will overstate the number of affected filers, since AGI exceeds taxable income, it would be roughly offset by income growth from 2019 to 2023, when the tax would begin.
 
-The report shows that filers with AGI above $2 million:
+The report shows that filers with AGI above \$2 million:
 * Count 35,000 (0.2% of all filers)
 * Had \$220 billion in total taxable income
 * Paid \$27 billion in state income tax, which was 30% of all state personal income income tax revenue
@@ -346,10 +346,10 @@ One study is almost implausibly well-situated to estimate the impact of Prop 30 
 [Young (2016)](https://inequality.stanford.edu/sites/default/files/millionaire-migration-california-impact-top-tax-rates.pdf) tracks the population of millionaires relative to non-millionaires in California, following the introduction of millionaire taxes in California.
 Results vary by the slice of the analysis, but overall they find that tax hikes slightly reduce the number of millionaires; for example, 0.1% reduction per 1% increase to the top marginal rate.
 
-Applying Young (2016) to the 2019 tax data suggests that Prop 30 would reduce tax revenues by 0.1 * 1.75% * $27 billion ~= $50 million.
+Applying Young (2016) to the 2019 tax data suggests that Prop 30 would reduce tax revenues by 0.1 * 1.75% * \$27 billion ~= \$50 million.
 
 But Young (2016) has two major methodological issues:
-1. It focuses on the millionaire population, even though, as it admits, "most people who earn $1 million or more are having an unusually
+1. It focuses on the millionaire population, even though, as it admits, "most people who earn \$1 million or more are having an unusually
 good year." The paper's conclusion continues, "The somewhat temporary nature of very-high earnings is one reason why the tax changes examined here generate little observable tax flight." But this doesn't mean that people don't respond to the tax; they probably respond based on their *expected* income, rather than their exact income, and the paper's methodology wouldn't pick this up.
 1. It assumes that California's millionaire population trend would have moved parallel to its non-millionaire population trend in absence of the tax changes. But California's tax changes are not random; if California raised millionaire taxes at times when it expected to attract millionaires (like 2004), then the study would underestimate the negative impact of the tax reform. This is known as "endogeneity" in econometrics, and I don't believe Young (2016) persuasively attempts to address it.
 
@@ -365,15 +365,15 @@ To apply this finding to Prop 30, we can note that:
 1. If Prop 30 passes, that ratio will fall to (1-0.55) / (1-0.4935) = 0.89x
 1. Prop 30 therefore reduces the net-of-tax rate relative to other states by 0.89 / 0.91 - 1 = 3.8%
 1. Applying the elasticity, this translates to 3.8% * 0.85 = 3.2% fewer top earners
-1. Those fewer top earners would reduce revenues by 3.2% * $27 billion = **$860 million**
+1. Those fewer top earners would reduce revenues by 3.2% * \$27 billion = **\$860 million**
 
 (I'm not super confident in this calculation because the rates outside California cancel out; I suspect I'm misunderstanding the elasticity slightly.)
 
 Both studies preceded the Covid-19 pandemic, which has likely increased migration elasticities due to remote work.
 This increases my confidence that, even though Agrawal and Foremny are half a world from California, their impact is closer to the truth than Young.
 
-Putting it all together, I would expect that **Prop 30 would reduce revenues by at least $1 billion per year,** aside from the direct revenues.
-That's $1 billion less for healthcare, education, poverty reduction, and other services.
+Putting it all together, I would expect that **Prop 30 would reduce revenues by at least \$1 billion per year,** aside from the direct revenues.
+That's \$1 billion less for healthcare, education, poverty reduction, and other services.
 And for what?
 
 #### Spending analysis
@@ -382,8 +382,8 @@ And for what?
 These would be wasteful and sprawl-inducing.
 
 [Xing (2019)](https://www.nber.org/papers/w25771) finds that "70% of [clean vehicle tax credits] were obtained by households that would have bought an EV without the credits."
-As a result, they estimate that it costs about $800 for clean vehicle subsidies to avert a ton of carbon emissions.
-Even the young [direct air capture technology](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal) only costs about $250 to $600 per ton to remove a ton of emissions.
+As a result, they estimate that it costs about \$800 for clean vehicle subsidies to avert a ton of carbon emissions.
+Even the young [direct air capture technology](https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal) only costs about \$250 to \$600 per ton to remove a ton of emissions.
 
 Even Xing may be overestimating the benfits of clean vehicle subsidies, because they don't account for the impact on sprawl.
 For example, [Tanguay (2012)](https://journals.sagepub.com/doi/abs/10.1068/a44259?journalCode=epna) finds that higher gas prices increase the population living in the inner city and decrease low-density housing units.
@@ -393,10 +393,10 @@ Prop 30 exacerbates these issues by reserving some funds for charging stations s
 To a first approximation, my guess is that clean vehicle and charging subsidies have zero emissions impact when accounting for land use.
 
 California's track record reveals other problems with clean vehicle subsidies, namely that they create benefit cliffs that punish people for earning more money.
-Today, a California family that buys a clean vehicle and home charger [loses $9,500 in subsidies](https://twitter.com/MaxGhenis/status/1490065501640265730) once they earn $1 above 400% of the poverty line:
-* $2,500 from California's Clean Vehicle Rebate Project for the vehicle
-* $5,000 from California's Clean Vehicle Assistance Program for the vehicle
-* $2,000 from California's Clean Vehicle Assistance Program for the charger
+Today, a California family that buys a clean vehicle and home charger [loses \$9,500 in subsidies](https://twitter.com/MaxGhenis/status/1490065501640265730) once they earn \$1 above 400% of the poverty line:
+* \$2,500 from California's Clean Vehicle Rebate Project for the vehicle
+* \$5,000 from California's Clean Vehicle Assistance Program for the vehicle
+* \$2,000 from California's Clean Vehicle Assistance Program for the charger
 
 Existing programs create cliffs at other margins as well.
 These programs violate basic guiding principles of public policy, and Prop 30 would expand their brokenness.
@@ -425,7 +425,7 @@ Prop 31 is a referendum on SB 793: if it passes, the ban is upheld; if it fails,
 
 The [legislative analyst projects](https://lao.ca.gov/BallotAnalysis/Proposition?number=31&year=2022) these fiscal impacts:
 
-> Decreased state tobacco tax revenues ranging from tens of millions of dollars annually to around $100 million annually.
+> Decreased state tobacco tax revenues ranging from tens of millions of dollars annually to around \$100 million annually.
 
 These revenues mostly fund health care, and also fund early childhood programs, tobacco control, medical research, and other programs.
 
