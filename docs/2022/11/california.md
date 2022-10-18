@@ -55,10 +55,6 @@ No change since June primary, except that Bonta continues to rock it on enforcin
 
 No change since June primary; the Republican challenger has no experience in politics or insurance.
 
-### MICHELA ALIOTO-PIER for Board of Equalization, District 2
-
-No change since June primary.
-
 ### TONY THURMOND for Superintendent of Public Instruction
 
 No change since June primary.
@@ -192,8 +188,7 @@ Regarding babies with severe disabilities, I could only find one article that ra
 They both went to abortion providers outside of California (six states and D.C. do not have a gestational limit on abortion access).
 
 The article does not include data on how commonly such diagnoses late in pregnancy spur women to seek abortions outside California.
-It quotes a UCSF researcher who estimates at least 100 leave California for abortions each year, but this isn't limited to late diagnoses of fetal developmental disabilities.
-My partner worked in an abortion clinic in graduate school and told me that it was a common reason for abortions later in the pregnancy, but I've been unable to find statistics.
+It quotes a UCSF researcher who estimates at least 100 leave California for abortions each year, but this isn't limited to late diagnoses of fetal developmental disabilities, and I couldn't find statistics on this reason.
 
 Overall, if I were deciding only from a utilitarian perspective, I would probably vote no on Prop 1, largely because I expect large welfare gains from larger populations, but I would be very uncertain.
 
@@ -346,9 +341,40 @@ But would about migration?
 ##### Migration
 
 Higher top tax rates can affect migration in two ways: people can move out, and people can avoid moving in.
-One study appears to be well-situated to estimate the impact: 
 
-[todo: finish]
+One study is almost implausibly well-situated to estimate the impact of Prop 30 on such migration outcomes.
+[Young (2016)](https://inequality.stanford.edu/sites/default/files/millionaire-migration-california-impact-top-tax-rates.pdf) tracks the population of millionaires relative to non-millionaires in California, following the introduction of millionaire taxes in California.
+Results vary by the slice of the analysis, but overall they find that tax hikes slightly reduce the number of millionaires; for example, 0.1% reduction per 1% increase to the top marginal rate.
+
+Applying Young (2016) to the 2019 tax data suggests that Prop 30 would reduce tax revenues by 0.1 * 1.75% * $27 billion ~= $50 million.
+
+But Young (2016) has two major methodological issues:
+1. It focuses on the millionaire population, even though, as it admits, "most people who earn $1 million or more are having an unusually
+good year." The paper's conclusion continues, "The somewhat temporary nature of very-high earnings is one reason why the tax changes examined here generate little observable tax flight." But this doesn't mean that people don't respond to the tax; they probably respond based on their *expected* income, rather than their exact income, and the paper's methodology wouldn't pick this up.
+1. It assumes that California's millionaire population trend would have moved parallel to its non-millionaire population trend in absence of the tax changes. But California's tax changes are not random; if California raised millionaire taxes at times when it expected to attract millionaires (like 2004), then the study would underestimate the negative impact of the tax reform. This is known as "endogeneity" in econometrics, and I don't believe Young (2016) persuasively attempts to address it.
+
+Another study addresses these issues: [Agrawal and Foremny (2019)](https://direct.mit.edu/rest/article-abstract/101/2/214/58521/Relocation-of-the-Rich-Migration-in-Response-to?redirectedFrom=fulltext) addresses the first issue by considering impacts on a wider range of high-income people, and the second issue by relying on a nationwide reform that granted regions the ability to set tax rates, avoiding endogeneity of specific regions setting taxes on their own timelines---indeed, they show from their data that regions do not set tax policy randomly.
+Its Spanish setting is further from California, but I believe these methodological improvements outweigh the distance.
+
+Agrawal and Foremny compare region pairs to estimate "an elasticity of the number of top taxpayers with respect to net-of-tax rates of 0.85."
+That is (if I understand correctly), a 10% increase in Region A's net-of-tax wage rate relative to Region B will increase the number of taxpayers in Region A by 8.5%.
+
+To apply this finding to Prop 30, we can note that:
+1. The average top marginal rate in states outside California is about 49.35%: 37% federal + 1.45% Medicare + 0.9% additional Medicare + ~5% top state rate ([eyeballing the Tax Foundation's summary](https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/))
+1. Therefore, top earners in California face a net-of-tax rate of (1-0.5375) / (1-0.4935) = 0.91x the rate outside of California
+1. If Prop 30 passes, that ratio will fall to (1-0.55) / (1-0.4935) = 0.89x
+1. Prop 30 therefore reduces the net-of-tax rate relative to other states by 0.89 / 0.91 - 1 = 3.8%
+1. Applying the elasticity, this translates to 3.8% * 0.85 = 3.2% fewer top earners
+1. Those fewer top earners would reduce revenues by 3.2% * $27 billion = **$860 million**
+
+(I'm not super confident in this calculation because the rates outside California cancel out; I suspect I'm misunderstanding the elasticity slightly.)
+
+Both studies preceded the Covid-19 pandemic, which has likely increased migration elasticities due to remote work.
+This increases my confidence that, even though Agrawal and Foremny are half a world from California, their impact is closer to the truth than Young.
+
+Putting it all together, I would expect that **Prop 30 would reduce revenues by at least $1 billion per year,** aside from the direct revenues.
+That's $1 billion less for healthcare, education, poverty reduction, and other services.
+And for what?
 
 #### Spending analysis
 
