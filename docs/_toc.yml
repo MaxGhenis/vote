@@ -4,6 +4,7 @@ parts:
   - caption: November 2022
     chapters:
       - file: 2022/11/california
+      - file: 2022/11/oxnard
   - caption: June 2022
     chapters:
       - file: 2022/06/california
