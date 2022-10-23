@@ -11,6 +11,9 @@ The 2022 general election is on Tuesday, November 8.
 * FIONA MA for Treasurer
 * ROB BONTA for Attorney General
 * RICARDO LARA for Insurance Commissioner
+* TONY THURMOND for State Superintendent of Public Instruction
+* SALLY LIEBER for Board of Equalization, District 2
+* ALEX PADILLA for U.S. Senate
 * YES on Prop 1
 * YES on Prop 26
 * YES on Prop 27
