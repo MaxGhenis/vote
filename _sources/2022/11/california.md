@@ -365,12 +365,12 @@ That is (if I understand correctly), a 10% increase in Region A's net-of-tax wag
 To apply this finding to Prop 30, we can note that:
 1. The average top marginal rate in states outside California is about 49.35%: 37% federal + 1.45% Medicare + 0.9% additional Medicare + ~5% top state rate ([eyeballing the Tax Foundation's summary](https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/))
 1. Therefore, top earners in California face a net-of-tax rate of (1-0.5375) / (1-0.4935) = 0.91x the rate outside of California
-1. If Prop 30 passes, that ratio will fall to (1-0.55) / (1-0.4935) = 0.89x
-1. Prop 30 therefore reduces the net-of-tax rate relative to other states by 0.89 / 0.91 - 1 = 3.8%
+1. If Prop 30 passes, that ratio will fall to (1-0.555) / (1-0.4935) = 0.88x
+1. Prop 30 therefore reduces the net-of-tax rate relative to other states by 0.88 / 0.91 - 1 = 3.8%
 1. Applying the elasticity, this translates to 3.8% * 0.85 = 3.2% fewer top earners
 1. Those fewer top earners would reduce revenues by 3.2% * \$27 billion = **\$860 million**
 
-(I'm not super confident in this calculation because the rates outside California cancel out; I suspect I'm misunderstanding the elasticity slightly.)
+*Thanks to David Agrawal for confirming that the rates outside California should cancel out, since they are not changing.*
 
 Both studies preceded the Covid-19 pandemic, which has likely increased migration elasticities due to remote work.
 This increases my confidence that, even though Agrawal and Foremny are half a world from California, their impact is closer to the truth than Young.
